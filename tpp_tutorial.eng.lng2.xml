@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="3353816654" Color="1" Value="&lt;I=G=BINOS&gt; Hold: Binoculars" />
+    <Entry Key="401086238" Color="1" Value="&lt;I=G=PAD_R3&gt;: Change zoom" />
+    <Entry Key="3674510238" Color="1" Value="&lt;I=G=CALL&gt; Tap: Intel support call" />
+    <Entry Key="3645231455" Color="1" Value="&lt;I=G=CALL&gt; Tap: Radio (request intel)" />
+    <Entry Key="2083966053" Color="1" Value="&lt;I=G=HOLD&gt;: Place/remove marker" />
+    <Entry Key="3788606071" Color="1" Value="&lt;I=G=HOLD&gt;: Launch" />
+    <Entry Key="3751980165" Color="1" Value="&lt;I=G=HOLD&gt;: Disperse smoke" />
+    <Entry Key="1193010912" Color="1" Value="&lt;I=G=HOLD&gt;: Disperse sleeping gas" />
+    <Entry Key="1268604878" Color="1" Value="&lt;I=G=PAD_L2&gt;: Drop shield" />
+    <Entry Key="4149766436" Color="1" Value="&lt;I=G=PAD_Y&gt;: Change function" />
+    <Entry Key="164849024" Color="1" Value="&lt;I=G=PAD_RS&gt; while holding &lt;I=G=CALL&gt;: Call horse" />
+    <Entry Key="1483205348" Color="1" Value="&lt;I=G=STANCE&gt;: Hide on horseback/return upright" />
+    <Entry Key="3141153643" Color="1" Value="&lt;I=G=STOCK&gt;: Change hiding position left/right" />
+    <Entry Key="4257811572" Color="1" Value="&lt;I=G=EVADE&gt;: Speed up horse" />
+    <Entry Key="2166602524" Color="1" Value="&lt;I=G=ACTION&gt;: Mount/dismount horse" />
+    <Entry Key="2650933936" Color="1" Value="&lt;I=G=RELOAD&gt; Hold: Place on horse" />
+    <Entry Key="2588907342" Color="1" Value="&lt;I=G=ACTION&gt;: Acquire intel" />
+    <Entry Key="4168838809" Color="1" Value="&lt;I=G=ACTION&gt;: Untie restraints" />
+    <Entry Key="3410035219" Color="1" Value="&lt;I=G=MBDEVICE&gt;: Open/close iDroid" />
+    <Entry Key="3336871507" Color="1" Value="&lt;I=G=PAD_RIGHT&gt;: Turn light ON/OFF" />
+    <Entry Key="4109286980" Color="1" Value="&lt;I=G=ACTION&gt;: Hide inside toilet/exit toilet" />
+    <Entry Key="3824852359" Color="1" Value="&lt;I=G=RELOAD&gt;: Place inside toilet" />
+    <Entry Key="2227884794" Color="1" Value="&lt;I=G=ACTION&gt;: Hide inside dumpster/exit dumpster" />
+    <Entry Key="1428327800" Color="1" Value="&lt;I=G=RELOAD&gt;: Place inside dumpster" />
+    <Entry Key="851107802" Color="1" Value="&lt;I=G=ACTION&gt;: Climb up/down ladder" />
+    <Entry Key="1255751666" Color="1" Value="&lt;I=G=ACTION&gt;: Climb up/down cliff" />
+    <Entry Key="3591131680" Color="1" Value="&lt;I=G=ACTION&gt;: Turn power ON/OFF" />
+    <Entry Key="711040162" Color="1" Value="&lt;I=G=HOLD&gt;+&lt;I=G=ATTACK&gt;: Use weapon (ready + attack)" />
+    <Entry Key="1628587960" Color="1" Value="&lt;I=G=ACTION&gt;: Climb back up" />
+    <Entry Key="179041431" Color="1" Value="&lt;I=G=STANCE&gt;: Drop down" />
+    <Entry Key="3016995856" Color="1" Value="&lt;I=G=ACTION&gt;: First Aid" />
+    <Entry Key="3715319204" Color="1" Value="&lt;I=G=RELOAD&gt;: Reload" />
+    <Entry Key="1853804356" Color="1" Value="&lt;I=G=ACTION&gt; while tilting &lt;I=G=MOVE&gt;: Jump " />
+    <Entry Key="3374713997" Color="1" Value="&lt;I=G=RELOAD&gt; Hold: Carry/set down" />
+    <Entry Key="939100550" Color="1" Value="&lt;I=G=ATTACK&gt;: Throw" />
+    <Entry Key="3244837461" Color="1" Value="&lt;I=G=STANCE&gt;: Change stance (stand/crouch/prone)" />
+    <Entry Key="2021563324" Color="1" Value="&lt;I=G=PAD_RS&gt; while holding &lt;I=G=PAD_ALL&gt;: Select/equip weapon or item" />
+    <Entry Key="4190035570" Color="1" Value="&lt;I=G=STOCK&gt; Hold: Peek" />
+    <Entry Key="282541966" Color="1" Value="&lt;I=G=ACTION&gt;: Climb obstacle/fence" />
+    <Entry Key="2122651817" Color="1" Value="&lt;I=G=MOVE&gt;+&lt;I=G=DASH&gt; while holding &lt;I=G=HOLD&gt;: Roll (move + roll)" />
+    <Entry Key="2993103575" Color="1" Value="&lt;I=G=HOLD&gt;+&lt;I=G=ATTACK&gt;: Cover attack (ready + attack)" />
+    <Entry Key="4072456444" Color="1" Value="&lt;I=G=PAUSE&gt;: Pause" />
+    <Entry Key="2371945978" Color="1" Value="&lt;I=G=ACTION&gt;: Enter vehicle" />
+    <Entry Key="1273799808" Color="1" Value="&lt;I=G=RELOAD&gt; Hold: Place in vehicle" />
+    <Entry Key="3912557633" Color="1" Value="&lt;I=G=ATTACK&gt;: Accelerate" />
+    <Entry Key="1079142954" Color="1" Value="&lt;I=G=HOLD&gt;: Brake/reverse" />
+    <Entry Key="3117776229" Color="1" Value="&lt;I=G=ACTION&gt;: Board helicopter" />
+    <Entry Key="74265584" Color="1" Value="&lt;I=G=RELOAD&gt; Hold: Place in helicopter" />
+    <Entry Key="3192253462" Color="1" Value="&lt;I=G=ATTACK&gt;: Attack using machine gun" />
+    <Entry Key="1058134717" Color="1" Value="&lt;I=G=ATTACK&gt;: Attack using mortar" />
+    <Entry Key="2841601049" Color="1" Value="&lt;I=G=ATTACK&gt;: Attack using anti-air cannon" />
+    <Entry Key="1320429874" Color="1" Value="&lt;I=G=ACTION&gt; Hold: Fulton recovery" />
+    <Entry Key="587039403" Color="1" Value="&lt;I=G=ACTION&gt;: Climb up/down pipe" />
+    <Entry Key="24320434" Color="1" Value="&lt;I=G=ATTACK&gt;: CQC (strike/throw/restrain)" />
+    <Entry Key="125109763" Color="1" Value="&lt;I=G=ATTACK&gt; Repeatedly: Strike" />
+    <Entry Key="716805192" Color="1" Value="Tap &lt;I=G=ATTACK&gt; while tilting &lt;I=G=MOVE&gt;: throw" />
+    <Entry Key="893946401" Color="1" Value="&lt;I=G=ATTACK&gt; Hold: Restrain" />
+    <Entry Key="2736986934" Color="1" Value="&lt;I=G=CQC&gt; Hold: Restrain" />
+    <Entry Key="2000666462" Color="1" Value="&lt;I=G=PAD_RS&gt; while holding &lt;I=G=CALL&gt;: Interrogate" />
+    <Entry Key="2214238265" Color="1" Value="&lt;I=G=ATTACK&gt; Repeatedly: Choke (knock out)" />
+    <Entry Key="555023414" Color="1" Value="&lt;I=G=ACTION&gt;: Slit throat (kill)" />
+    <Entry Key="524352877" Color="1" Value="While striking, hold &lt;I=G=HOLD&gt;: Steal weapon" />
+    <Entry Key="3489590649" Color="1" Value="After throwing, tap &lt;I=G=ATTACK&gt; again: Consecutive CQC" />
+    <Entry Key="3333697528" Color="1" Value="&lt;I=G=RELOAD&gt; Hold: Pick up item" />
+    <Entry Key="2318475079" Color="1" Value="&lt;I=G=ACTION&gt;: Pick up supply drop" />
+    <Entry Key="3319844821" Color="1" Value="&lt;I=G=HOLD&gt;+&lt;I=G=ATTACK&gt;: Place C-4 (ready + place)" />
+    <Entry Key="1684802673" Color="1" Value="&lt;I=G=HOLD&gt;+&lt;I=G=ACTION&gt;: Detonate C-4 (ready + detonate)" />
+    <Entry Key="1267130451" Color="1" Value="&lt;I=G=BINOS&gt; Tap: Switch camera (shoulder/first-person)" />
+    <Entry Key="1741681073" Color="1" Value="&lt;I=G=ACTION&gt;: Disembark helicopter" />
+    <Entry Key="453645899" Color="1" Value="&lt;I=G=PAD_RS&gt; while holding &lt;I=G=CALL&gt;: Knock (lure enemy)" />
+    <Entry Key="3458622544" Color="1" Value="&lt;I=G=HOLD&gt;+&lt;I=G=ACTION&gt;: Switch to underbarrel (ready + change)" />
+    <Entry Key="968695572" Color="1" Value="&lt;I=G=CAMERA&gt;: Move camera" />
+    <Entry Key="1432543497" Color="1" Value="&lt;I=G=CAMERA&gt; Hold: Zoom camera" />
+    <Entry Key="3038138160" Color="1" Value="&lt;I=G=STOCK&gt; Tap: Switch camera position left/right" />
+    <Entry Key="2949263592" Color="1" Value="&lt;I=G=MOVE&gt;: Move" />
+    <Entry Key="132925072" Color="1" Value="Tilt &lt;I=G=MOVE&gt; toward a wall: Cover (stick to wall)" />
+    <Entry Key="1664427335" Color="1" Value="&lt;I=G=DASH&gt;: Dash" />
+    <Entry Key="1742957483" Color="1" Value="&lt;I=G=EVADE&gt;: Quick dive" />
+    <Entry Key="1871380621" Color="1" Value="Slowly tilt &lt;I=G=MOVE&gt; toward a cliff: Hang" />
+    <Entry Key="2962995495" Color="1" Value="While in cover, hold &lt;I=G=STOCK&gt;: Peek" />
+    <Entry Key="2734749330" Color="1" Value="&lt;I=G=CANCEL&gt;: Cancel" />
+    <Entry Key="3839086289" Color="1" Value="&lt;I=G=PAD_RS&gt; while holding &lt;I=G=CALL&gt;: Use sonar (bio-detector)" />
+    <Entry Key="3784150389" Color="1" Value="&lt;I=G=PAD_RS&gt; while holding &lt;I=G=CALL&gt;: Orders to buddy" />
+    <Entry Key="3748274761" Color="1" Value="&lt;I=G=PAD_RS&gt; while holding &lt;I=G=CALL&gt;: Orders to children" />
+    <Entry Key="828898696" Color="1" Value="&lt;I=G=STANCE&gt;: In vehicle, hide/return upright" />
+    <Entry Key="1840317425" Color="1" Value="&lt;I=G=PAUSE&gt;: View tips (pause screen)" />
+    <Entry Key="2363595826" Color="1" Value="&lt;I=G=PAUSE&gt;: View controls (pause screen)" />
+    <Entry Key="269691622" Color="1" Value="&lt;I=G=STANCE&gt; Hold: Prone" />
+    <Entry Key="2206104005" Color="1" Value="&lt;I=G=STANCE&gt;: Crouch" />
+    <Entry Key="639129096" Color="1" Value="&lt;I=G=ACTION&gt; while readying shield: Hide behind shield/exit cover" />
+    <Entry Key="402134196" Color="1" Value="&lt;I=G=PAD_R1&gt;: Switch camera (third-person/shoulder/first-person)" />
+    <Entry Key="2928200725" Color="1" Value="&lt;I=G=PAD_L1&gt;: Attack" />
+  </Entries>
+</LangFile>

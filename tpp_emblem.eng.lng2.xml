@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="685364942" Color="1" Value="Triangle" />
+    <Entry Key="2136032607" Color="1" Value="Isosceles Triangle" />
+    <Entry Key="49235547" Color="1" Value="Inverted Triangle" />
+    <Entry Key="2924439835" Color="1" Value="Fan" />
+    <Entry Key="676082464" Color="1" Value="Double Inverted Triangles" />
+    <Entry Key="637666688" Color="1" Value="Square" />
+    <Entry Key="1819763121" Color="1" Value="Rectangle (Vertical)" />
+    <Entry Key="3749050253" Color="1" Value="Rectangle (Horizontal)" />
+    <Entry Key="1684649016" Color="1" Value="Trapezoid" />
+    <Entry Key="3965323850" Color="1" Value="Parallelogram" />
+    <Entry Key="2773317783" Color="1" Value="Flag" />
+    <Entry Key="3172572427" Color="1" Value="Arch" />
+    <Entry Key="3117285701" Color="1" Value="Rhombus" />
+    <Entry Key="794461028" Color="1" Value="Cross" />
+    <Entry Key="2367196796" Color="1" Value="X" />
+    <Entry Key="2873779708" Color="1" Value="Pentagon" />
+    <Entry Key="2096833964" Color="1" Value="Hexagon" />
+    <Entry Key="136286018" Color="1" Value="Octagon" />
+    <Entry Key="1094377647" Color="1" Value="Circle" />
+    <Entry Key="1324676608" Color="1" Value="Dog Tag" />
+    <Entry Key="2486762927" Color="1" Value="Barrel 01" />
+    <Entry Key="2984061307" Color="1" Value="Barrel 02" />
+    <Entry Key="1434636704" Color="1" Value="Shield 01" />
+    <Entry Key="2315674354" Color="1" Value="Shield 02" />
+    <Entry Key="2936850146" Color="1" Value="Shield 03" />
+    <Entry Key="1889928346" Color="1" Value="Shield 04" />
+    <Entry Key="200448652" Color="1" Value="Shield 05" />
+    <Entry Key="301251673" Color="1" Value="Shield 06" />
+    <Entry Key="3816503037" Color="1" Value="Shield 07" />
+    <Entry Key="3626424867" Color="1" Value="Shield 08" />
+    <Entry Key="3407771453" Color="1" Value="Shield 09" />
+    <Entry Key="3432697512" Color="1" Value="Leaf" />
+    <Entry Key="3845103762" Color="1" Value="Arrowhead 01" />
+    <Entry Key="1770406318" Color="1" Value="Arrowhead 02" />
+    <Entry Key="2149634601" Color="1" Value="Spade" />
+    <Entry Key="21368229" Color="1" Value="Heart" />
+    <Entry Key="2343888736" Color="1" Value="Diamond" />
+    <Entry Key="1428774318" Color="1" Value="Club" />
+    <Entry Key="822267552" Color="1" Value="Star" />
+    <Entry Key="1701683732" Color="1" Value="Lightning" />
+    <Entry Key="3342023218" Color="1" Value="Horseshoe" />
+    <Entry Key="2264880358" Color="1" Value="Ellipse" />
+    <Entry Key="1126367606" Color="1" Value="Circle (Old Mother Base)" />
+    <Entry Key="2704263310" Color="1" Value="Circle (Peace Walker)" />
+    <Entry Key="3382013477" Color="1" Value="Diamond" />
+    <Entry Key="4037283404" Color="1" Value="Shield (C.F.A.)" />
+    <Entry Key="2040557250" Color="1" Value="Inverted Spade" />
+    <Entry Key="1650317758" Color="1" Value="Inverted Triangle (Z.R.S.)" />
+    <Entry Key="2432180844" Color="1" Value="Circle (Outer Heaven)" />
+    <Entry Key="2369296424" Color="1" Value="Z.O.E." />
+    <Entry Key="3810963483" Color="1" Value="Arm" />
+    <Entry Key="3332763589" Color="1" Value="Sword" />
+    <Entry Key="3381364059" Color="1" Value="Axe" />
+    <Entry Key="2753650353" Color="1" Value="Spear" />
+    <Entry Key="1826739601" Color="1" Value="Handgun" />
+    <Entry Key="2281568223" Color="1" Value="Assault Rifle" />
+    <Entry Key="3724858730" Color="1" Value="Gas Mask" />
+    <Entry Key="429015801" Color="1" Value="Cardboard Box" />
+    <Entry Key="2521884707" Color="1" Value="Parachute" />
+    <Entry Key="1265939028" Color="1" Value="Fulton Recovery Device (Soldier)" />
+    <Entry Key="3031815780" Color="1" Value="Fulton Recovery Device (Sheep)" />
+    <Entry Key="980811686" Color="1" Value="Walker Gear" />
+    <Entry Key="3989551500" Color="1" Value="Tank" />
+    <Entry Key="2337122631" Color="1" Value="Gunship" />
+    <Entry Key="3565214458" Color="1" Value="Fighter Jet" />
+    <Entry Key="468725005" Color="1" Value="Battleship" />
+    <Entry Key="2819212255" Color="1" Value="Nuke" />
+    <Entry Key="200111727" Color="1" Value="Spade" />
+    <Entry Key="4255712749" Color="1" Value="Spade (Decorative)" />
+    <Entry Key="1747481867" Color="1" Value="Heart" />
+    <Entry Key="3803909679" Color="1" Value="Heart (Decorative)" />
+    <Entry Key="774930608" Color="1" Value="Club" />
+    <Entry Key="3570555051" Color="1" Value="Club (Decorative)" />
+    <Entry Key="1520901683" Color="1" Value="Diamond" />
+    <Entry Key="3724565456" Color="1" Value="Diamond (Decorative)" />
+    <Entry Key="3911978345" Color="1" Value="Star" />
+    <Entry Key="45992431" Color="1" Value="Star (Decorative)" />
+    <Entry Key="1523761973" Color="1" Value="Moon" />
+    <Entry Key="2090120807" Color="1" Value="Moon (Decorative)" />
+    <Entry Key="3487545385" Color="1" Value="Lightning 01" />
+    <Entry Key="3532280419" Color="1" Value="Lightning 02" />
+    <Entry Key="1690625797" Color="1" Value="Flames 01" />
+    <Entry Key="1164360716" Color="1" Value="Flames 02" />
+    <Entry Key="3830641419" Color="1" Value="Anchor" />
+    <Entry Key="811156238" Color="1" Value="Musical Note" />
+    <Entry Key="4286209325" Color="1" Value="Diamond" />
+    <Entry Key="122713103" Color="1" Value="Gear" />
+    <Entry Key="3557402121" Color="1" Value="Biohazard" />
+    <Entry Key="860205676" Color="1" Value="Radiological Hazard" />
+    <Entry Key="1162809781" Color="1" Value="Earth (Map)" />
+    <Entry Key="1536500911" Color="1" Value="Earth (Wireframe)" />
+    <Entry Key="1100369081" Color="1" Value="Flower" />
+    <Entry Key="3859114874" Color="1" Value="Garland" />
+    <Entry Key="1313477303" Color="1" Value="Chick" />
+    <Entry Key="822999631" Color="1" Value="Waterfowl" />
+    <Entry Key="2699587473" Color="1" Value="Crown" />
+    <Entry Key="1680026419" Color="1" Value="Jeweled Crown" />
+    <Entry Key="688880171" Color="1" Value="Skull (Front)" />
+    <Entry Key="1963224260" Color="1" Value="Skull, Ring &amp; Wings" />
+    <Entry Key="3626128142" Color="1" Value="Skull, Horn &amp; Tail" />
+    <Entry Key="2474128389" Color="1" Value="Skull (Profile)" />
+    <Entry Key="3043230075" Color="1" Value="Heart, Ring &amp; Wings" />
+    <Entry Key="643263127" Color="1" Value="Wings" />
+    <Entry Key="2733522419" Color="1" Value="Falcon" />
+    <Entry Key="1752739034" Color="1" Value="Lion" />
+    <Entry Key="952818447" Color="1" Value="Pegasus" />
+    <Entry Key="1261024520" Color="1" Value="Unicorn" />
+    <Entry Key="3237849728" Color="1" Value="Griffon" />
+    <Entry Key="580951996" Color="1" Value="Dragon" />
+    <Entry Key="574929088" Color="1" Value="Archangel" />
+    <Entry Key="3401226140" Color="1" Value="Old Mother Base" />
+    <Entry Key="1906148439" Color="1" Value="Peace Walker" />
+    <Entry Key="3353923589" Color="1" Value="Diamond Dogs" />
+    <Entry Key="1791365945" Color="1" Value="C.F.A." />
+    <Entry Key="3429225793" Color="1" Value="Rogue Coyote" />
+    <Entry Key="2814482484" Color="1" Value="Zero Risk Security" />
+    <Entry Key="2226433068" Color="1" Value="Outer Heaven" />
+    <Entry Key="289643193" Color="1" Value="Pieuvre Armement" />
+    <Entry Key="391248990" Color="1" Value="Raven Sword" />
+    <Entry Key="2106050146" Color="1" Value="Werewolf" />
+    <Entry Key="1414013560" Color="1" Value="Praying Mantis" />
+    <Entry Key="719526079" Color="1" Value="Otselotovaya Khvatka" />
+    <Entry Key="2961469605" Color="1" Value="Outer Haven" />
+    <Entry Key="921870395" Color="1" Value="Moai" />
+    <Entry Key="3036859598" Color="1" Value="Martian" />
+    <Entry Key="2624994942" Color="1" Value="Jehuty" />
+    <Entry Key="4272324046" Color="1" Value="Anubis" />
+    <Entry Key="2451993149" Color="1" Value="Otenko" />
+    <Entry Key="2468020723" Color="1" Value="Nero" />
+    <Entry Key="1511229437" Color="1" Value="SOLID" />
+    <Entry Key="1184853290" Color="1" Value="SNAKE" />
+    <Entry Key="2051133121" Color="1" Value="GRAY" />
+    <Entry Key="2088517244" Color="1" Value="BIG" />
+    <Entry Key="2695144872" Color="1" Value="BOSS" />
+    <Entry Key="1428693757" Color="1" Value="SHOOT" />
+    <Entry Key="3072590182" Color="1" Value="GUNNER" />
+    <Entry Key="4088577009" Color="1" Value="MACHINEGUN" />
+    <Entry Key="3039031446" Color="1" Value="KID" />
+    <Entry Key="2391206793" Color="1" Value="FIRE" />
+    <Entry Key="3729047996" Color="1" Value="TROOPER" />
+    <Entry Key="4009330336" Color="1" Value="COWARD" />
+    <Entry Key="3103952397" Color="1" Value="DUCK" />
+    <Entry Key="3853164567" Color="1" Value="METAL" />
+    <Entry Key="2002684707" Color="1" Value="GEAR" />
+    <Entry Key="1483746703" Color="1" Value="FOX" />
+    <Entry Key="125916459" Color="1" Value="HOUND" />
+    <Entry Key="2385411284" Color="1" Value="OUTER" />
+    <Entry Key="2148313967" Color="1" Value="HEAVEN" />
+    <Entry Key="3960910909" Color="1" Value="CHICKEN" />
+    <Entry Key="1710867686" Color="1" Value="MASTER" />
+    <Entry Key="3159805246" Color="1" Value="MILLER" />
+    <Entry Key="2272622858" Color="1" Value="WHITE" />
+    <Entry Key="228035779" Color="1" Value="BLACK" />
+    <Entry Key="1059686053" Color="1" Value="COLOR" />
+    <Entry Key="3148309466" Color="1" Value="RUNNING" />
+    <Entry Key="2785173794" Color="1" Value="MAN" />
+    <Entry Key="2960866430" Color="1" Value="RED" />
+    <Entry Key="1762767455" Color="1" Value="BLASTER" />
+    <Entry Key="1608075123" Color="1" Value="ULTRA" />
+    <Entry Key="2126182871" Color="1" Value="BOX" />
+    <Entry Key="2850265353" Color="1" Value="PREDATOR" />
+    <Entry Key="276871127" Color="1" Value="NIGHT" />
+    <Entry Key="105044651" Color="1" Value="SIGHT" />
+    <Entry Key="710314507" Color="1" Value="ZANZIBAR" />
+    <Entry Key="1581039145" Color="1" Value="LAND" />
+    <Entry Key="1093531850" Color="1" Value="OTAKU" />
+    <Entry Key="232666226" Color="1" Value="CYBORG" />
+    <Entry Key="3115996264" Color="1" Value="NINJA" />
+    <Entry Key="226264831" Color="1" Value="LIQUID" />
+    <Entry Key="680140144" Color="1" Value="REVOLVER" />
+    <Entry Key="2732182487" Color="1" Value="OCELOT" />
+    <Entry Key="2433271570" Color="1" Value="VULCAN" />
+    <Entry Key="560920157" Color="1" Value="RAVEN" />
+    <Entry Key="1822332132" Color="1" Value="PSYCHO" />
+    <Entry Key="963344248" Color="1" Value="MANTIS" />
+    <Entry Key="595266091" Color="1" Value="SNIPER" />
+    <Entry Key="3425206968" Color="1" Value="WOLF" />
+    <Entry Key="2942950267" Color="1" Value="DECOY" />
+    <Entry Key="3927203649" Color="1" Value="OCTOPUS" />
+    <Entry Key="2735373813" Color="1" Value="REX" />
+    <Entry Key="991150715" Color="1" Value="DIE" />
+    <Entry Key="2746035262" Color="1" Value="SHADOW" />
+    <Entry Key="3393801400" Color="1" Value="MOSES" />
+    <Entry Key="275612665" Color="1" Value="ISLAND" />
+    <Entry Key="2160411039" Color="1" Value="RAIDEN" />
+    <Entry Key="2302221131" Color="1" Value="ROSE" />
+    <Entry Key="622138720" Color="1" Value="SOLIDUS" />
+    <Entry Key="3239863823" Color="1" Value="KING" />
+    <Entry Key="3976462295" Color="1" Value="FORTUNE" />
+    <Entry Key="905422760" Color="1" Value="QUEEN" />
+    <Entry Key="3592926620" Color="1" Value="VAMP" />
+    <Entry Key="799543176" Color="1" Value="FAT" />
+    <Entry Key="704520014" Color="1" Value="RAY" />
+    <Entry Key="2142972906" Color="1" Value="ARSENAL" />
+    <Entry Key="3972748753" Color="1" Value="PHILANTHROPY" />
+    <Entry Key="3248741697" Color="1" Value="SONS OF" />
+    <Entry Key="3771456633" Color="1" Value="LIBERTY" />
+    <Entry Key="584208892" Color="1" Value="DEAD" />
+    <Entry Key="1220217945" Color="1" Value="CELL" />
+    <Entry Key="933283721" Color="1" Value="TENGU" />
+    <Entry Key="25148776" Color="1" Value="COMMANDOS" />
+    <Entry Key="2348013699" Color="1" Value="SHELL" />
+    <Entry Key="2795161135" Color="1" Value="NAKED" />
+    <Entry Key="2227887109" Color="1" Value="ZERO" />
+    <Entry Key="1712271244" Color="1" Value="ADAM" />
+    <Entry Key="227198079" Color="1" Value="EVA" />
+    <Entry Key="890696722" Color="1" Value="THUNDER" />
+    <Entry Key="3644981705" Color="1" Value="BOLT" />
+    <Entry Key="3960166312" Color="1" Value="THE" />
+    <Entry Key="167647525" Color="1" Value="PAIN" />
+    <Entry Key="1091390799" Color="1" Value="FEAR" />
+    <Entry Key="2638144274" Color="1" Value="END" />
+    <Entry Key="1334179784" Color="1" Value="FURY" />
+    <Entry Key="2610232116" Color="1" Value="SORROW" />
+    <Entry Key="2912906734" Color="1" Value="JOY" />
+    <Entry Key="2114058831" Color="1" Value="SHAGOHOD" />
+    <Entry Key="1535749684" Color="1" Value="COBRA" />
+    <Entry Key="2712422413" Color="1" Value="UNIT" />
+    <Entry Key="3079027498" Color="1" Value="EATER" />
+    <Entry Key="1467482499" Color="1" Value="GROZNYJGRAD" />
+    <Entry Key="3508904123" Color="1" Value="OLD" />
+    <Entry Key="2830874190" Color="1" Value="DREBIN" />
+    <Entry Key="1232960805" Color="1" Value="893" />
+    <Entry Key="1684119335" Color="1" Value="MAMA" />
+    <Entry Key="1265399250" Color="1" Value="LAUGHING" />
+    <Entry Key="1843808726" Color="1" Value="RAGING" />
+    <Entry Key="1721836535" Color="1" Value="CRYING" />
+    <Entry Key="2389784289" Color="1" Value="SCREAMING" />
+    <Entry Key="3704212520" Color="1" Value="GECKO" />
+    <Entry Key="3759700584" Color="1" Value="DWARF" />
+    <Entry Key="900478130" Color="1" Value="HAVEN" />
+    <Entry Key="3946352390" Color="1" Value="RAT" />
+    <Entry Key="1897798991" Color="1" Value="PATROL" />
+    <Entry Key="4233436358" Color="1" Value="TEAM" />
+    <Entry Key="1748272011" Color="1" Value="PARADISE" />
+    <Entry Key="1914656422" Color="1" Value="LOST" />
+    <Entry Key="1456942005" Color="1" Value="ARMY" />
+    <Entry Key="2495473922" Color="1" Value="ARMAMENTS" />
+    <Entry Key="2756847952" Color="1" Value="SWORD" />
+    <Entry Key="1994322683" Color="1" Value="WEREWOLF" />
+    <Entry Key="666352761" Color="1" Value="PRAYING" />
+    <Entry Key="348821713" Color="1" Value="CLAWING" />
+    <Entry Key="2968305178" Color="1" Value="BEAUTY" />
+    <Entry Key="186967757" Color="1" Value="BEAST" />
+    <Entry Key="4048862713" Color="1" Value="GUNS OF" />
+    <Entry Key="1369393322" Color="1" Value="PATRIOTS" />
+    <Entry Key="3221484602" Color="1" Value="ALIVE" />
+    <Entry Key="2617774454" Color="1" Value="AREA" />
+    <Entry Key="2200558525" Color="1" Value="HOT" />
+    <Entry Key="898673131" Color="1" Value="COLD" />
+    <Entry Key="3726782886" Color="1" Value="STRANGE" />
+    <Entry Key="2445560182" Color="1" Value="LOVE" />
+    <Entry Key="1568762690" Color="1" Value="PUPA" />
+    <Entry Key="2043539773" Color="1" Value="CHRYSALIS" />
+    <Entry Key="588032393" Color="1" Value="COCOON" />
+    <Entry Key="2481721388" Color="1" Value="PEACE" />
+    <Entry Key="3408237363" Color="1" Value="WALKER" />
+    <Entry Key="102551000" Color="1" Value="ZEKE" />
+    <Entry Key="3145198622" Color="1" Value="MILITAIRES" />
+    <Entry Key="2607341474" Color="1" Value="SANS FRONTIERES" />
+    <Entry Key="532879564" Color="1" Value="SENTINEL" />
+    <Entry Key="986288076" Color="1" Value="SKULL" />
+    <Entry Key="3590626697" Color="1" Value="FACE" />
+    <Entry Key="1301562306" Color="1" Value="CIPHER" />
+    <Entry Key="880705010" Color="1" Value="XOF" />
+    <Entry Key="1772021335" Color="1" Value="SNATCHER" />
+    <Entry Key="1817725518" Color="1" Value="CAMP" />
+    <Entry Key="1484323362" Color="1" Value="OMEGA" />
+    <Entry Key="267264249" Color="1" Value="GROUND" />
+    <Entry Key="3216003822" Color="1" Value="ZEROES" />
+    <Entry Key="4025329803" Color="1" Value="PUNISHED" />
+    <Entry Key="4255929660" Color="1" Value="VENOM" />
+    <Entry Key="1530760410" Color="1" Value="SHALASHASKA" />
+    <Entry Key="4155647966" Color="1" Value="HORSE" />
+    <Entry Key="3681843639" Color="1" Value="DOG" />
+    <Entry Key="838573500" Color="1" Value="QUIET" />
+    <Entry Key="361576943" Color="1" Value="BATTLE" />
+    <Entry Key="1139481845" Color="1" Value="MAMBA" />
+    <Entry Key="3330157482" Color="1" Value="CODE" />
+    <Entry Key="1396501777" Color="1" Value="TALKER" />
+    <Entry Key="2053697135" Color="1" Value="NUCLEAR" />
+    <Entry Key="1998474851" Color="1" Value="DIAMOND" />
+    <Entry Key="2942091028" Color="1" Value="DOGS" />
+    <Entry Key="979655955" Color="1" Value="CONTRACT" />
+    <Entry Key="501845549" Color="1" Value="FORCES" />
+    <Entry Key="1193534987" Color="1" Value="ROGUE" />
+    <Entry Key="4027348272" Color="1" Value="COYOTE" />
+    <Entry Key="152981275" Color="1" Value="RISK" />
+    <Entry Key="2778888659" Color="1" Value="SECURITY" />
+    <Entry Key="1293296594" Color="1" Value=".INC" />
+    <Entry Key="4199788975" Color="1" Value="SKULLS" />
+    <Entry Key="650091090" Color="1" Value="PHANTOM" />
+    <Entry Key="148872924" Color="1" Value="HELL" />
+    <Entry Key="3863276052" Color="1" Value="SMALL" />
+    <Entry Key="2451638913" Color="1" Value="LITTLE" />
+    <Entry Key="627079672" Color="1" Value="WOMAN" />
+    <Entry Key="2750866727" Color="1" Value="BOY" />
+    <Entry Key="2135468662" Color="1" Value="GIRL" />
+    <Entry Key="685656122" Color="1" Value="NEW" />
+    <Entry Key="72505131" Color="1" Value="BLUE" />
+    <Entry Key="1098685531" Color="1" Value="GREEN" />
+    <Entry Key="1761857785" Color="1" Value="YELLOW" />
+    <Entry Key="1224218234" Color="1" Value="ORANGE" />
+    <Entry Key="318937625" Color="1" Value="PINK" />
+    <Entry Key="3384421184" Color="1" Value="PURPLE" />
+    <Entry Key="2698405015" Color="1" Value="BROWN" />
+    <Entry Key="2370616962" Color="1" Value="PLATINUM" />
+    <Entry Key="1664147422" Color="1" Value="GOLD" />
+    <Entry Key="3516991083" Color="1" Value="SILVER" />
+    <Entry Key="3008983151" Color="1" Value="BRONZE" />
+    <Entry Key="2425289064" Color="1" Value="KOJIMA" />
+    <Entry Key="2484600116" Color="1" Value="PRODUCTIONS" />
+    <Entry Key="1211650311" Color="1" Value="ARMS" />
+    <Entry Key="1921278682" Color="1" Value="TECH" />
+    <Entry Key="507180916" Color="1" Value="TOKUGAWA" />
+    <Entry Key="2142716653" Color="1" Value="HEAVY" />
+    <Entry Key="2258071064" Color="1" Value="INDUSTRIES" />
+    <Entry Key="1137970041" Color="1" Value="WESTERN" />
+    <Entry Key="3089313233" Color="1" Value="EASTERN" />
+    <Entry Key="110854888" Color="1" Value="NORTHERN" />
+    <Entry Key="3139505301" Color="1" Value="SOUTHERN" />
+    <Entry Key="467272681" Color="1" Value="SPECIAL" />
+    <Entry Key="3300856067" Color="1" Value="TACTICAL" />
+    <Entry Key="3294717407" Color="1" Value="RIOT" />
+    <Entry Key="3128358997" Color="1" Value="TECHNICAL" />
+    <Entry Key="1175405271" Color="1" Value="INTELLIGENCE" />
+    <Entry Key="2682807411" Color="1" Value="EMERGENCY" />
+    <Entry Key="2064040635" Color="1" Value="SERVICE" />
+    <Entry Key="3112021547" Color="1" Value="FLIGHT" />
+    <Entry Key="562745641" Color="1" Value="AIRBORNE" />
+    <Entry Key="3471456497" Color="1" Value="CHEMICAL" />
+    <Entry Key="2900877932" Color="1" Value="MEDICAL" />
+    <Entry Key="261790739" Color="1" Value="RESCUE" />
+    <Entry Key="3057220739" Color="1" Value="ENGINEER" />
+    <Entry Key="169343176" Color="1" Value="SIGNAL" />
+    <Entry Key="1684154698" Color="1" Value="WARFARE" />
+    <Entry Key="1267978787" Color="1" Value="SURVIVAL" />
+    <Entry Key="4214800840" Color="1" Value="EVASION" />
+    <Entry Key="1790693555" Color="1" Value="RESISTANCE" />
+    <Entry Key="2586543711" Color="1" Value="ESCAPE" />
+    <Entry Key="341004498" Color="1" Value="SECURITY" />
+    <Entry Key="3516297451" Color="1" Value="CAMOUFLAGE" />
+    <Entry Key="202263393" Color="1" Value="CONCEALMENT" />
+    <Entry Key="3082387096" Color="1" Value="DECOY" />
+    <Entry Key="1442422091" Color="1" Value="ANTI" />
+    <Entry Key="1919588951" Color="1" Value="TASK" />
+    <Entry Key="3143259667" Color="1" Value="COMMAND" />
+    <Entry Key="2123931613" Color="1" Value="OPERATIONS" />
+    <Entry Key="1613545302" Color="1" Value="ELEMENTS" />
+    <Entry Key="649700839" Color="1" Value="DETACHMENT" />
+    <Entry Key="3724848057" Color="1" Value="UNIT" />
+    <Entry Key="123364013" Color="1" Value="FORCES" />
+    <Entry Key="1027009096" Color="1" Value="GROUP" />
+    <Entry Key="4126460044" Color="1" Value="ARMY" />
+    <Entry Key="1645807060" Color="1" Value="CORPS" />
+    <Entry Key="1878751469" Color="1" Value="DIVISION" />
+    <Entry Key="3209788515" Color="1" Value="BRIGADE" />
+    <Entry Key="1241317266" Color="1" Value="REGIMENT" />
+    <Entry Key="3127749067" Color="1" Value="BATTALION" />
+    <Entry Key="3878846686" Color="1" Value="COMPANY" />
+    <Entry Key="1513774157" Color="1" Value="PLATOON" />
+    <Entry Key="4207921987" Color="1" Value="SQUAD" />
+    <Entry Key="3488964496" Color="1" Value="TEAM" />
+    <Entry Key="4036320942" Color="1" Value="INFANTRY" />
+    <Entry Key="1651830064" Color="1" Value="ARMOR" />
+    <Entry Key="3187081989" Color="1" Value="AVIATION" />
+    <Entry Key="3517107811" Color="1" Value="ASSAULT" />
+    <Entry Key="2142666446" Color="1" Value="RADIO" />
+    <Entry Key="657934644" Color="1" Value="RECON" />
+    <Entry Key="899491238" Color="1" Value="SCOUT" />
+    <Entry Key="2549390344" Color="1" Value="SNIPER" />
+    <Entry Key="1674321374" Color="1" Value="RANGER" />
+    <Entry Key="3496032571" Color="1" Value="POLICE" />
+    <Entry Key="2566167104" Color="1" Value="ALFA" />
+    <Entry Key="3388627617" Color="1" Value="BRAVO" />
+    <Entry Key="2765200767" Color="1" Value="CHARLIE" />
+    <Entry Key="1470479326" Color="1" Value="DELTA" />
+    <Entry Key="152737785" Color="1" Value="ECHO" />
+    <Entry Key="3502230952" Color="1" Value="FOXTROT" />
+    <Entry Key="530124353" Color="1" Value="GOLF" />
+    <Entry Key="202581459" Color="1" Value="HOTEL" />
+    <Entry Key="3183847577" Color="1" Value="INDIA" />
+    <Entry Key="3173063210" Color="1" Value="JULIETT" />
+    <Entry Key="1277114536" Color="1" Value="KILO" />
+    <Entry Key="3224095224" Color="1" Value="LIMA" />
+    <Entry Key="3806566979" Color="1" Value="MIKE" />
+    <Entry Key="3688858645" Color="1" Value="NOVEMBER" />
+    <Entry Key="1323993245" Color="1" Value="OSCAR" />
+    <Entry Key="874680198" Color="1" Value="PAPA" />
+    <Entry Key="3603427999" Color="1" Value="QUEBEC" />
+    <Entry Key="2333224704" Color="1" Value="ROMEO" />
+    <Entry Key="2361262105" Color="1" Value="SIERRA" />
+    <Entry Key="1782904532" Color="1" Value="TANGO" />
+    <Entry Key="3512744426" Color="1" Value="UNIFORM" />
+    <Entry Key="2540929892" Color="1" Value="VICTOR" />
+    <Entry Key="2695409737" Color="1" Value="WHISKEY" />
+    <Entry Key="4207146396" Color="1" Value="X-RAY" />
+    <Entry Key="2030168324" Color="1" Value="YANKEE" />
+    <Entry Key="517994713" Color="1" Value="ZULU" />
+    <Entry Key="2121245289" Color="1" Value="!" />
+    <Entry Key="3429815269" Color="1" Value="?" />
+    <Entry Key="3634085265" Color="1" Value="Otaku Spirit" />
+    <Entry Key="604265518" Color="1" Value="Zan" />
+    <Entry Key="3051972589" Color="1" Value="Datsu" />
+    <Entry Key="1598294690" Color="1" Value="PIGEON" />
+    <Entry Key="899467242" Color="1" Value="BLUE BIRD" />
+    <Entry Key="254272369" Color="1" Value="LITTLE GRAY" />
+    <Entry Key="444125322" Color="1" Value="ANT" />
+    <Entry Key="725266429" Color="1" Value="GIBBON" />
+    <Entry Key="3666098836" Color="1" Value="RABBIT" />
+    <Entry Key="319153282" Color="1" Value="BEE" />
+    <Entry Key="4112523995" Color="1" Value="GECKO" />
+    <Entry Key="1703980138" Color="1" Value="SCARAB" />
+    <Entry Key="2658061194" Color="1" Value="FROG" />
+    <Entry Key="3280768704" Color="1" Value="INCHWORM" />
+    <Entry Key="3786799758" Color="1" Value="LOBSTER" />
+    <Entry Key="1521590219" Color="1" Value="HYENA" />
+    <Entry Key="3058956433" Color="1" Value="PIG" />
+    <Entry Key="1074421211" Color="1" Value="COW" />
+    <Entry Key="1721336935" Color="1" Value="CROCODILE" />
+    <Entry Key="1263519059" Color="1" Value="GIANT PANDA" />
+    <Entry Key="2164222196" Color="1" Value="TARANTULA" />
+    <Entry Key="3861486087" Color="1" Value="CENTIPEDE" />
+    <Entry Key="1435958602" Color="1" Value="JAGUAR" />
+    <Entry Key="1664545241" Color="1" Value="PANTHER" />
+    <Entry Key="2694186423" Color="1" Value="LEOPARD" />
+    <Entry Key="1613187957" Color="1" Value="STAR OF BETHLEHEM" />
+    <Entry Key="3581480562" Color="1" Value="WATER BEAR" />
+    <Entry Key="1125871760" Color="1" Value="FLYING SQUIRREL" />
+    <Entry Key="4069093373" Color="1" Value="NIGHT OWL" />
+    <Entry Key="3111982218" Color="1" Value="FIGHTING FISH" />
+    <Entry Key="1612254910" Color="1" Value="KOMODO DRAGON" />
+    <Entry Key="1392779188" Color="1" Value="ARCTIC SKUA" />
+    <Entry Key="1510012954" Color="1" Value="CUCKOO" />
+    <Entry Key="1250442318" Color="1" Value="SNAKE" />
+    <Entry Key="3069715210" Color="1" Value="CHAMELEON" />
+    <Entry Key="928859865" Color="1" Value="RAT" />
+    <Entry Key="2392475105" Color="1" Value="SLOTH" />
+    <Entry Key="491927226" Color="1" Value="DEER" />
+    <Entry Key="4170165194" Color="1" Value="CAT" />
+    <Entry Key="3846132415" Color="1" Value="GULL" />
+    <Entry Key="3215817414" Color="1" Value="SWALLOW" />
+    <Entry Key="2433342430" Color="1" Value="KANGAROO" />
+    <Entry Key="2510087449" Color="1" Value="FIREFLY" />
+    <Entry Key="2153158561" Color="1" Value="EEL" />
+    <Entry Key="1165097524" Color="1" Value="Normal" />
+    <Entry Key="170558145" Color="1" Value="Special" />
+    <Entry Key="3198521657" Color="1" Value="Normal" />
+    <Entry Key="3261613424" Color="1" Value="Animals" />
+    <Entry Key="3467745122" Color="1" Value="Codenames" />
+    <Entry Key="3430869520" Color="1" Value="Special" />
+    <Entry Key="594046564" Color="1" Value="MGO" />
+    <Entry Key="3937954832" Color="1" Value="Numerical" />
+    <Entry Key="290281094" Color="1" Value="Lettering" />
+    <Entry Key="2373283320" Color="1" Value="Phonetic Codes" />
+    <Entry Key="3320375258" Color="1" Value="Codenames" />
+    <Entry Key="1971571841" Color="1" Value="Normal" />
+    <Entry Key="1405656995" Color="1" Value="VENOM SNAKE" />
+    <Entry Key="1479191372" Color="1" Value="Color 2" />
+    <Entry Key="2913681031" Color="1" Value="Color 1" />
+  </Entries>
+</LangFile>

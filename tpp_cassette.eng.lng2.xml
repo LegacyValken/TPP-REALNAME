@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="3712427066" Color="1" Value="Music Tape 1" />
+    <Entry Key="1528429112" Color="1" Value="Music Tape 2" />
+    <Entry Key="911772505" Color="1" Value="Ocelot's Briefing [1]" />
+    <Entry Key="1032244861" Color="1" Value="Afghanistan Today [1]" />
+    <Entry Key="2536789140" Color="1" Value="What Happened to Old Mother Base Members" />
+    <Entry Key="595099262" Color="1" Value="At Mother Base [1]" />
+    <Entry Key="375067666" Color="1" Value="Quiet [1]" />
+    <Entry Key="709898495" Color="1" Value="Cipher's Cargo [1]" />
+    <Entry Key="1421048177" Color="1" Value="Africa Today [1]" />
+    <Entry Key="2444570796" Color="1" Value="The Factory of the Dead" />
+    <Entry Key="2566847122" Color="1" Value="The Man on Fire [1]" />
+    <Entry Key="3578470694" Color="1" Value="The White Mamba [1]" />
+    <Entry Key="428649575" Color="1" Value="Vocal Cord Parasites [1]" />
+    <Entry Key="3368027084" Color="1" Value="Metallic Archaea [1]" />
+    <Entry Key="4166353435" Color="1" Value="Code Talker and His Research" />
+    <Entry Key="341877747" Color="1" Value="Sahelanthropus" />
+    <Entry Key="2957738208" Color="1" Value="Truth Records" />
+    <Entry Key="3623622014" Color="1" Value="Skull Face's Objective" />
+    <Entry Key="276655300" Color="1" Value="Informant's Report" />
+    <Entry Key="2067375543" Color="1" Value="What Happened in the Laboratory [2]" />
+    <Entry Key="2143852996" Color="1" Value="About Quiet" />
+    <Entry Key="782223063" Color="1" Value="The Children Escape [1]" />
+    <Entry Key="1865022429" Color="1" Value="Questioning Huey [1]" />
+    <Entry Key="2802127462" Color="1" Value="Paz's Diary (Continued) [1]" />
+    <Entry Key="2214486243" Color="1" Value="At Mother Base [Supplemental 1]" />
+    <Entry Key="903545070" Color="1" Value="The Hamburgers of Kazuhira Miller [1]" />
+    <Entry Key="3441554996" Color="1" Value="Mission Info" />
+    <Entry Key="2752906690" Color="1" Value="Scouting Barren Lands" />
+    <Entry Key="1109347952" Color="1" Value="Journey to Point C-5" />
+    <Entry Key="84763077" Color="1" Value="Sands" />
+    <Entry Key="2317290375" Color="1" Value="Dreamt of an Eclipse" />
+    <Entry Key="960072397" Color="1" Value="Heavens Divide" />
+    <Entry Key="3879007488" Color="1" Value="Koi no Yokushiryoku (Love Deterrence)" />
+    <Entry Key="2316304797" Color="1" Value="Gloria" />
+    <Entry Key="3741863019" Color="1" Value="Kids in America" />
+    <Entry Key="1723399028" Color="1" Value="Rebel Yell - 1999 Digital Remaster" />
+    <Entry Key="4090692249" Color="1" Value="The Final Countdown" />
+    <Entry Key="1804410748" Color="1" Value="Nitrogen" />
+    <Entry Key="370584520" Color="1" Value="Take On Me" />
+    <Entry Key="371160995" Color="1" Value="Ride A White Horse" />
+    <Entry Key="2527990493" Color="1" Value="Maneater" />
+    <Entry Key="604916599" Color="1" Value="A Phantom Pain" />
+    <Entry Key="3298971075" Color="1" Value="Only Time Will Tell" />
+    <Entry Key="2663512079" Color="1" Value="Behind the Drapery" />
+    <Entry Key="4088511646" Color="1" Value="Love Will Tear Us Apart" />
+    <Entry Key="1764873715" Color="1" Value="All the Sun Touches" />
+    <Entry Key="1510350623" Color="1" Value="True" />
+    <Entry Key="3194774936" Color="1" Value="Take The D.W." />
+    <Entry Key="3778149770" Color="1" Value="Friday I'm In Love" />
+    <Entry Key="597496191" Color="1" Value="Midnight Mirage" />
+    <Entry Key="3013551976" Color="1" Value="Dancing With Tears In My Eyes" />
+    <Entry Key="1528405666" Color="1" Value="The Tangerine" />
+    <Entry Key="2318004807" Color="1" Value="Planet Scape" />
+    <Entry Key="647180735" Color="1" Value="How 'bout them zombies ey?" />
+    <Entry Key="940632542" Color="1" Value="Snake Eater" />
+    <Entry Key="3036663350" Color="1" Value="204863" />
+    <Entry Key="2748510345" Color="1" Value="You Spin Me Round (Like a Record) " />
+    <Entry Key="3464135748" Color="1" Value="Quiet Life" />
+    <Entry Key="1109952386" Color="1" Value="She Blinded Me With Science" />
+    <Entry Key="2193300951" Color="1" Value="Dormant Stream" />
+    <Entry Key="2550999362" Color="1" Value="Too Shy" />
+    <Entry Key="3892877653" Color="1" Value="British Sovereign Base Area - Dhekelia" />
+    <Entry Key="3315398389" Color="1" Value="Cyprus, a Nation Divided" />
+    <Entry Key="2887521809" Color="1" Value="World Affairs Over the 9 Years" />
+    <Entry Key="642232360" Color="1" Value="SALT II" />
+    <Entry Key="2620923904" Color="1" Value="What Happened in the Caribbean 9 Years Ago" />
+    <Entry Key="827325853" Color="1" Value="The Strike Force: After the Attack" />
+    <Entry Key="3187125488" Color="1" Value="After-Effects of Snake's Coma" />
+    <Entry Key="4084410907" Color="1" Value="Meeting Ocelot, and the Formation of a Certain Organization" />
+    <Entry Key="2003942250" Color="1" Value="Where is Zero?" />
+    <Entry Key="3351543188" Color="1" Value="The Route to Afghanistan" />
+    <Entry Key="3417494005" Color="1" Value="The Legendary Mercenary" />
+    <Entry Key="603185905" Color="1" Value="Whaling Ship &quot;Heiwa Maru&quot;" />
+    <Entry Key="86745355" Color="1" Value="The Soviet Invasion of Afghanistan" />
+    <Entry Key="1841155488" Color="1" Value="The Soviet Army's Scorched Earth Operation" />
+    <Entry Key="2441474596" Color="1" Value="The Threat of Soviet Gunships" />
+    <Entry Key="3726889067" Color="1" Value="The Hamid Fighters" />
+    <Entry Key="2374869674" Color="1" Value="Honey Bee Analysis Results" />
+    <Entry Key="62361956" Color="1" Value="Chico and Amanda" />
+    <Entry Key="568693692" Color="1" Value="Strangelove" />
+    <Entry Key="800660907" Color="1" Value="Huey" />
+    <Entry Key="3061713142" Color="1" Value="Mother Base Reborn" />
+    <Entry Key="3150700112" Color="1" Value="Connection with the Seychelles" />
+    <Entry Key="2332035662" Color="1" Value="The Mist Unit" />
+    <Entry Key="1558898884" Color="1" Value="Cipher's Will" />
+    <Entry Key="365363193" Color="1" Value="Private Forces" />
+    <Entry Key="3382180543" Color="1" Value="Big Boss, Back to Life" />
+    <Entry Key="714072135" Color="1" Value="Origins of &quot;Diamond&quot;" />
+    <Entry Key="547976653" Color="1" Value="Training D-Dog" />
+    <Entry Key="3061110794" Color="1" Value="Intel Team" />
+    <Entry Key="1287337222" Color="1" Value="Bionic Arm" />
+    <Entry Key="4131631805" Color="1" Value="Identifying the Infected" />
+    <Entry Key="1963136539" Color="1" Value="The Sniper Quiet Appears" />
+    <Entry Key="1253444351" Color="1" Value="Events After Quiet's Extraction [1]" />
+    <Entry Key="3626305773" Color="1" Value="Events After Quiet's Extraction [2]" />
+    <Entry Key="2513121225" Color="1" Value="Copper Ore" />
+    <Entry Key="4275351727" Color="1" Value="Yellowcake" />
+    <Entry Key="1306410332" Color="1" Value="Shinkolobwe Mine" />
+    <Entry Key="873633406" Color="1" Value="Kungenga Mine and the Ethnic Clash" />
+    <Entry Key="2025519115" Color="1" Value="The Spread of Walker Gears" />
+    <Entry Key="4272505980" Color="1" Value="Private Forces" />
+    <Entry Key="1610069444" Color="1" Value="Private Force: CFA" />
+    <Entry Key="3020267133" Color="1" Value="Private Force: Rogue Coyote" />
+    <Entry Key="1439465573" Color="1" Value="Private Force: Zero Risk Security" />
+    <Entry Key="3985838335" Color="1" Value="Private Force: CFA's Locally Hired Mercenaries" />
+    <Entry Key="3976005522" Color="1" Value="Current Affairs in Africa" />
+    <Entry Key="1561575345" Color="1" Value="The Bedridden in the Factory" />
+    <Entry Key="1377133626" Color="1" Value="Analysis of the Voices in the Factory" />
+    <Entry Key="1628735444" Color="1" Value="The Man on Fire's Weakness" />
+    <Entry Key="3082885133" Color="1" Value="What Happened Next with the Man on Fire" />
+    <Entry Key="3785824946" Color="1" Value="The Man on Fire" />
+    <Entry Key="326890516" Color="1" Value="Who is the Floating Boy?" />
+    <Entry Key="880739604" Color="1" Value="White Mamba (Nyoka ya Mpembe)" />
+    <Entry Key="4205344688" Color="1" Value="DDR (The Problems with Social Reintegration)" />
+    <Entry Key="2989398065" Color="1" Value="The White Mamba Detained" />
+    <Entry Key="1217830894" Color="1" Value="Eli's DNA Test" />
+    <Entry Key="2835409324" Color="1" Value="Preventing Symptoms" />
+    <Entry Key="69995540" Color="1" Value="The Vocal Cord Parasites' Infection Route" />
+    <Entry Key="2252225814" Color="1" Value="Resisting the Vocal Cord Parasites" />
+    <Entry Key="3438577204" Color="1" Value="The First Infection" />
+    <Entry Key="3290994485" Color="1" Value="Experiment in Africa" />
+    <Entry Key="2011188148" Color="1" Value="Experiment in Afghanistan" />
+    <Entry Key="3654024849" Color="1" Value="Effects of the Wolbachia" />
+    <Entry Key="38930983" Color="1" Value="The Devil's House" />
+    <Entry Key="3755573103" Color="1" Value="The Vocal Cord Parasites' Language Learning Ability" />
+    <Entry Key="1193338047" Color="1" Value="What Are Metallic Archaea?" />
+    <Entry Key="2496056397" Color="1" Value="OKB Zero" />
+    <Entry Key="3929313119" Color="1" Value="Emmerich's Power-Assisted Exo-Legs" />
+    <Entry Key="81619083" Color="1" Value="Nuclear Testing in South Africa" />
+    <Entry Key="1189423569" Color="1" Value="Motive for Researching Metallic Archaea" />
+    <Entry Key="1988396817" Color="1" Value="The &quot;Safety Mechanism&quot; of Nuclear Saturation" />
+    <Entry Key="2436577086" Color="1" Value="Uranium Enrichment Archaea" />
+    <Entry Key="358901498" Color="1" Value="Parasites Living Within Us" />
+    <Entry Key="1811610822" Color="1" Value="Origins of &quot;Code Talker&quot;" />
+    <Entry Key="504657244" Color="1" Value="Motive for Researching Vocal Cord Parasites" />
+    <Entry Key="4181857144" Color="1" Value="What Covers the Skulls" />
+    <Entry Key="1207621427" Color="1" Value="The Ethnic Cleansing Parasite Project" />
+    <Entry Key="3636350496" Color="1" Value="The Parasites Gave Us Language" />
+    <Entry Key="2931077294" Color="1" Value="Genesis of the Vocal Cord Parasites" />
+    <Entry Key="3046592197" Color="1" Value="Revival of the Vocal Cord Parasites" />
+    <Entry Key="1182043334" Color="1" Value="The Final Form of the Ethnic Cleansing Parasites" />
+    <Entry Key="3702972128" Color="1" Value="Superorganisms" />
+    <Entry Key="1225845129" Color="1" Value="The Captured Sahelanthropus" />
+    <Entry Key="3114881363" Color="1" Value="Sahelanthropus's Armor Material [1]" />
+    <Entry Key="1594056465" Color="1" Value="Sahelanthropus's Armor Material [2]" />
+    <Entry Key="1874181454" Color="1" Value="Paz's Account: Zero's Location" />
+    <Entry Key="3492055233" Color="1" Value="Report to Big Boss: The War Economy" />
+    <Entry Key="598023394" Color="1" Value="Doublethink" />
+    <Entry Key="799379206" Color="1" Value="Report to Big Boss: Cipher's Information Control" />
+    <Entry Key="1115083497" Color="1" Value="Report to Big Boss: Zero Has Been Attacked [1]" />
+    <Entry Key="2441775890" Color="1" Value="&quot;Les Enfants Terribles&quot;" />
+    <Entry Key="368230710" Color="1" Value="The Moniker Shalashaska" />
+    <Entry Key="856784307" Color="1" Value="Secret Recording of Paz and Zero" />
+    <Entry Key="101814671" Color="1" Value="Secret Recording of Ocelot and Zero" />
+    <Entry Key="4230996696" Color="1" Value="Secret Recording of Miller and Zero" />
+    <Entry Key="3668527790" Color="1" Value="Secret Recording of Skull Face and Zero" />
+    <Entry Key="2265684939" Color="1" Value="Secret Recording of Zero Visiting Snake" />
+    <Entry Key="2665309249" Color="1" Value="Skull Face's Demise" />
+    <Entry Key="884528631" Color="1" Value="Skull Face 9 Years Ago" />
+    <Entry Key="1028155309" Color="1" Value="Whereabouts of the Third English Mating Pair" />
+    <Entry Key="1354472372" Color="1" Value="Skull Face's Ethnic Liberation Parasites" />
+    <Entry Key="446822114" Color="1" Value="Conjecture About English Strain Production" />
+    <Entry Key="2541925628" Color="1" Value="World Reactions to Sahelanthropus" />
+    <Entry Key="1323729762" Color="1" Value="Multiethnicity of the United States" />
+    <Entry Key="2608609726" Color="1" Value="Skull Face's Origins and XOF" />
+    <Entry Key="3045537513" Color="1" Value="The Target of Skull Face's Revenge" />
+    <Entry Key="5003083" Color="1" Value="Secret Recording of Skull Face and Code Talker [1]" />
+    <Entry Key="649217148" Color="1" Value="Rulers and Language" />
+    <Entry Key="2161021477" Color="1" Value="Secret Recording of Skull Face and Code Talker [2]" />
+    <Entry Key="2568139899" Color="1" Value="Part 1" />
+    <Entry Key="4289530536" Color="1" Value="Part 2" />
+    <Entry Key="3983176914" Color="1" Value="Part 3" />
+    <Entry Key="2493265984" Color="1" Value="Mutation in the Laboratory" />
+    <Entry Key="1827938830" Color="1" Value="Parasites Controlling People" />
+    <Entry Key="1063802802" Color="1" Value="Thirst for Vengeance Parasitizing the Mind" />
+    <Entry Key="842484478" Color="1" Value="Urges Caused by the Vocal Cord Parasites" />
+    <Entry Key="4033776865" Color="1" Value="Why Did Quiet Disappear?" />
+    <Entry Key="1122291595" Color="1" Value="Quiet's Parasite Therapy" />
+    <Entry Key="3009744575" Color="1" Value="Quiet's Message" />
+    <Entry Key="4038494047" Color="1" Value="Quiet's Mission Performance" />
+    <Entry Key="3584346562" Color="1" Value="Quiet's Missile Interdiction Sniping" />
+    <Entry Key="267813885" Color="1" Value="Quiet on Mother Base" />
+    <Entry Key="2946134230" Color="1" Value="Where Sahelanthropus Headed" />
+    <Entry Key="2277613661" Color="1" Value="Ocelot's Fears" />
+    <Entry Key="4209208445" Color="1" Value="What Prompted the Escape" />
+    <Entry Key="3758204666" Color="1" Value="The Mastermind" />
+    <Entry Key="2656949362" Color="1" Value="Eli's Explanation" />
+    <Entry Key="3645371222" Color="1" Value="Eli's Threat" />
+    <Entry Key="2656509221" Color="1" Value="Will of the Child Soldiers" />
+    <Entry Key="1583880670" Color="1" Value="Eli's Objective" />
+    <Entry Key="3967116014" Color="1" Value="Clone Research [1]" />
+    <Entry Key="1751982297" Color="1" Value="Clone Research [2]" />
+    <Entry Key="3226735933" Color="1" Value="Emmerich's 9 Years" />
+    <Entry Key="3787010571" Color="1" Value="Emmerich's Research for the Soviets" />
+    <Entry Key="912903912" Color="1" Value="Emmerich's Research History" />
+    <Entry Key="2620622003" Color="1" Value="Diamond Dogs' Treatment of Huey" />
+    <Entry Key="2714205572" Color="1" Value="What is Sahelanthropus?" />
+    <Entry Key="3856522856" Color="1" Value="AI Pod in the Lab" />
+    <Entry Key="3631068543" Color="1" Value="The Body Found in the AI Pod" />
+    <Entry Key="914863240" Color="1" Value="Cooperating with Eli" />
+    <Entry Key="275133643" Color="1" Value="Reasons for Facilitating the Wolbachia Mutation [1]" />
+    <Entry Key="286600843" Color="1" Value="Reasons for Facilitating the Wolbachia Mutation [2]" />
+    <Entry Key="458385119" Color="1" Value="Picking Up Emmerich's Work" />
+    <Entry Key="2831337192" Color="1" Value="The AI Pod's Final Recording" />
+    <Entry Key="3003366270" Color="1" Value="Entry 1" />
+    <Entry Key="3428997524" Color="1" Value="Entry 2" />
+    <Entry Key="4201908311" Color="1" Value="Entry 3" />
+    <Entry Key="120069859" Color="1" Value="Entry 4" />
+    <Entry Key="2530216570" Color="1" Value="Entry 5" />
+    <Entry Key="795104428" Color="1" Value="Diamond Dogs Anthem" />
+    <Entry Key="3431219203" Color="1" Value="Code Talker's Eating Habits" />
+    <Entry Key="1491683926" Color="1" Value="Kazuhira Miller's Research" />
+    <Entry Key="1019308791" Color="1" Value="Kazuhira Miller's Epiphany" />
+    <Entry Key="497418903" Color="1" Value="The Ultimate Hamburger" />
+    <Entry Key="2763527970" Color="1" Value="Report to Big Boss: Zero Has Been Attacked [2]" />
+    <Entry Key="703361725" Color="1" Value="Afghanistan Music" />
+    <Entry Key="358320361" Color="1" Value="Central Africa Music" />
+    <Entry Key="539383936" Color="1" Value="Paz's Humming" />
+    <Entry Key="2425166793" Color="1" Value="Quiet's Humming" />
+    <Entry Key="318598075" Color="1" Value="Afghanistan Soviet Soldier" />
+    <Entry Key="2856627945" Color="1" Value="Central Africa PF Soldier" />
+    <Entry Key="1985826762" Color="1" Value="Soldier with Stomachache" />
+    <Entry Key="3704362856" Color="1" Value="Bird" />
+    <Entry Key="3657734204" Color="1" Value="Goat" />
+    <Entry Key="3859201772" Color="1" Value="Horse" />
+    <Entry Key="1286828754" Color="1" Value="Wolf" />
+    <Entry Key="3327310710" Color="1" Value="Bear" />
+    <Entry Key="595825647" Color="1" Value="Afghan Lullaby" />
+    <Entry Key="2714171197" Color="1" Value="African Lullaby" />
+    <Entry Key="4265702008" Color="1" Value="Love Deterrence" />
+    <Entry Key="4085579735" Color="1" Value="Quiet's Theme" />
+    <Entry Key="4293956035" Color="1" Value="&quot;Enemy Eliminated&quot;" />
+    <Entry Key="1785183713" Color="1" Value="&quot;Enemy Eliminated&quot;" />
+    <Entry Key="370785788" Color="1" Value="Recorded in the Toilet" />
+    <Entry Key="1426665330" Color="1" Value="Bird Calls" />
+    <Entry Key="1995688877" Color="1" Value="Goat Bleats" />
+    <Entry Key="85477053" Color="1" Value="Horse Neighs" />
+    <Entry Key="1794966979" Color="1" Value="Wolf Howls" />
+    <Entry Key="2294443263" Color="1" Value="Bear Growls" />
+    <Entry Key="3188329989" Color="1" Value="METAL GEAR SOLID PEACE WALKER Main Theme" />
+    <Entry Key="3646472065" Color="1" Value="Afghanistan Today [2]" />
+    <Entry Key="2792016828" Color="1" Value="Afghanistan Today [3]" />
+    <Entry Key="3121968796" Color="1" Value="Quiet [2]" />
+    <Entry Key="316921329" Color="1" Value="Quiet [3]" />
+    <Entry Key="2027722967" Color="1" Value="Quiet [4]" />
+    <Entry Key="1602109730" Color="1" Value="Quiet [5]" />
+    <Entry Key="4194298020" Color="1" Value="Quiet [6]" />
+    <Entry Key="63235330" Color="1" Value="Quiet [7]" />
+    <Entry Key="88684440" Color="1" Value="Africa Today [2]" />
+    <Entry Key="3538531817" Color="1" Value="Africa Today [4]" />
+    <Entry Key="918648566" Color="1" Value="The Man on Fire [2]" />
+    <Entry Key="3915008656" Color="1" Value="The White Mamba [2]" />
+    <Entry Key="3743646707" Color="1" Value="The White Mamba [3]" />
+    <Entry Key="279263086" Color="1" Value="Metallic Archaea [4]" />
+    <Entry Key="1835757744" Color="1" Value="What Happened in the Laboratory [1]" />
+    <Entry Key="1340301762" Color="1" Value="What Happened in the Laboratory [3]" />
+    <Entry Key="3375695498" Color="1" Value="Truth Records" />
+    <Entry Key="228498243" Color="1" Value="The Children Escape [2]" />
+    <Entry Key="2512900062" Color="1" Value="The Children Escape [3]" />
+    <Entry Key="285690975" Color="1" Value="The Children Escape [4]" />
+    <Entry Key="967897697" Color="1" Value="The Children Escape [5]" />
+    <Entry Key="2738155313" Color="1" Value="The Children Escape [6]" />
+    <Entry Key="1506624874" Color="1" Value="Questioning Huey [3]" />
+    <Entry Key="374924716" Color="1" Value="Questioning Huey [4]" />
+    <Entry Key="839043303" Color="1" Value="Questioning Huey [5]" />
+    <Entry Key="3011838468" Color="1" Value="Questioning Huey [7]" />
+    <Entry Key="1868753897" Color="1" Value="Questioning Huey [6]" />
+    <Entry Key="1638250576" Color="1" Value="Paz's Diary (Continued) [2]" />
+    <Entry Key="4243823138" Color="1" Value="Paz's Diary (Continued) [3]" />
+    <Entry Key="2452707978" Color="1" Value="Paz's Diary (Continued) [4]" />
+    <Entry Key="1649431469" Color="1" Value="Paz's Diary (Continued) [5]" />
+    <Entry Key="2927606590" Color="1" Value="At Mother Base [3]" />
+    <Entry Key="3923330080" Color="1" Value="At Mother Base [4]" />
+    <Entry Key="4002883135" Color="1" Value="At Mother Base [5]" />
+    <Entry Key="1509411633" Color="1" Value="At Mother Base [Supplemental 2]" />
+    <Entry Key="1526871996" Color="1" Value="The Hamburgers of Kazuhira Miller [2]" />
+    <Entry Key="8624640" Color="1" Value="The Hamburgers of Kazuhira Miller [3]" />
+    <Entry Key="4170879018" Color="1" Value="The Hamburgers of Kazuhira Miller [4]" />
+    <Entry Key="3533292257" Color="1" Value="Vocal Cord Parasites [2]" />
+    <Entry Key="4157845192" Color="1" Value="Code Talker and His Research [1]" />
+    <Entry Key="3162558086" Color="1" Value="Code Talker and His Research [4]" />
+    <Entry Key="1802402282" Color="1" Value="Code Talker and His Research [5]" />
+    <Entry Key="3574208957" Color="1" Value="Sahelanthropus [1]" />
+    <Entry Key="2895902495" Color="1" Value="Sahelanthropus [2]" />
+    <Entry Key="3655279846" Color="1" Value="Sahelanthropus [3]" />
+    <Entry Key="2683805913" Color="1" Value="Skull Face's Objective [1]" />
+    <Entry Key="4186276228" Color="1" Value="Skull Face's Objective [3]" />
+    <Entry Key="2923011347" Color="1" Value="Skull Face's Objective [4]" />
+    <Entry Key="2227180727" Color="1" Value="Ocelot's Briefing [3]" />
+    <Entry Key="4202171732" Color="1" Value="Ocelot's Briefing [2]" />
+    <Entry Key="3799155284" Color="1" Value="At Mother Base [2]" />
+    <Entry Key="2857324997" Color="1" Value="Cipher's Cargo [2]" />
+    <Entry Key="729701685" Color="1" Value="Africa Today [3]" />
+    <Entry Key="3930261009" Color="1" Value="The Man on Fire [3]" />
+    <Entry Key="18253523" Color="1" Value="Metallic Archaea [2]" />
+    <Entry Key="269719235" Color="1" Value="Metallic Archaea [3]" />
+    <Entry Key="1855126742" Color="1" Value="Vocal Cord Parasites [3]" />
+    <Entry Key="1152616453" Color="1" Value="Sahelanthropus [1]" />
+    <Entry Key="4177736842" Color="1" Value="Code Talker and His Research [2]" />
+    <Entry Key="1494009107" Color="1" Value="Code Talker and His Research [3]" />
+    <Entry Key="249945599" Color="1" Value="Skull Face's Objective [2]" />
+    <Entry Key="2828253732" Color="1" Value="Skull Face's Objective [5]" />
+    <Entry Key="3930039353" Color="1" Value="Questioning Huey [2]" />
+    <Entry Key="3269157580" Color="1" Value="Background to the Epidemic" />
+    <Entry Key="3062665191" Color="1" Value="Afghanistan's a Big Place" />
+    <Entry Key="1914521596" Color="1" Value="MGO Trailer Music" />
+    <Entry Key="3665375947" Color="1" Value="Richard Wagner: &quot;Ride of the Valkyries&quot; from The Valkyrie -ACT III- (excerpt)" />
+    <Entry Key="256381402" Color="1" Value="The Man Who Sold The World" />
+    <Entry Key="1751975857" Color="1" Value="Sins of the Father" />
+    <Entry Key="2254223899" Color="1" Value="Quiet's Theme" />
+  </Entries>
+</LangFile>
