@@ -117,13 +117,13 @@
     <Entry Key="2860780303" Color="1" Value="Attachment" />
     <Entry Key="2553427452" Color="1" Value="Placed Weapon" />
     <Entry Key="2915448476" Color="1" Value="Throwing Weapon" />
-    <Entry Key="3389759358" Color="1" Value="&lt;I=C=cmn-col-special|Develops weapons and items.&gt; More equipment becomes available for development as the unit's level increases." />
-    <Entry Key="2491178407" Color="1" Value="&lt;I=C=cmn-col-special|Conducts materials procurement, providing a regular income of materials.&gt; The amount of materials procured increases &#xA;with the unit's level, while materials processing time &#xA;decreases. Also allows to you build new platforms and &#xA;expand your base." />
-    <Entry Key="3786775253" Color="1" Value="&lt;I=C=cmn-col-special|Provides support in the area of operations via weapon/ammo supply drops and airstrikes.&gt; As unit level increases, the types of attacks available increase, and response time becomes shorter. Fulton success rate during bad weather also improves." />
-    <Entry Key="3337008715" Color="1" Value="&lt;I=C=cmn-col-special|Scouts for the enemy in the area of operations.&gt;&#xA;As the unit's level increases, intel reports become&#xA;more detailed and more frequent. Reports on locations&#xA;of dumpsters, back roads, and other points of interest&#xA;are also added." />
-    <Entry Key="290661453" Color="1" Value="&lt;I=C=cmn-col-special|Hiring out combat units provides Mother Base with extra sources of GMP.&gt; More GMP is accrued as the unit's level&#xA;increases, and even more GMP can be earned by deploying&#xA;units on dispatch missions." />
-    <Entry Key="4192571157" Color="1" Value="&lt;I=C=cmn-col-special|Provides security for base facilities.&gt; &#xA;As unit level increases, better security &#xA;devices become available for development." />
-    <Entry Key="3064719849" Color="1" Value="&lt;I=C=cmn-col-special|Treats sick and injured staff members.&gt; As unit level&#xA;increases, the recovery time for patients decreases.&#xA;Success rate for Fulton extracting injured personnel&#xA;will also increase." />
+    <Entry Key="3389759358" Color="1" Value="Develops weapons and items. More equipment becomes available for development as the unit's level increases." />
+    <Entry Key="2491178407" Color="1" Value="Conducts materials procurement, providing a regular income of materials. The amount of materials procured increases &#xA;with the unit's level, while materials processing time &#xA;decreases. Also allows to you build new platforms and &#xA;expand your base." />
+    <Entry Key="3786775253" Color="1" Value="Provides support in the area of operations via weapon/ammo supply drops and airstrikes. As unit level increases, the types of attacks available increase, and response time becomes shorter. Fulton success rate during bad weather also improves." />
+    <Entry Key="3337008715" Color="1" Value="Scouts for the enemy in the area of operations.&#xA;As the unit's level increases, intel reports become&#xA;more detailed and more frequent. Reports on locations&#xA;of dumpsters, back roads, and other points of interest&#xA;are also added." />
+    <Entry Key="290661453" Color="1" Value="Hiring out combat units provides Mother Base with extra sources of GMP. More GMP is accrued as the unit's level&#xA;increases, and even more GMP can be earned by deploying&#xA;units on dispatch missions." />
+    <Entry Key="4192571157" Color="1" Value="Provides security for base facilities.&#xA;As unit level increases, better security &#xA;devices become available for development." />
+    <Entry Key="3064719849" Color="1" Value="Treats sick and injured staff members. As unit level&#xA;increases, the recovery time for patients decreases.&#xA;Success rate for Fulton extracting injured personnel&#xA;will also increase." />
     <Entry Key="1083280244" Color="1" Value="Area for unassigned staff awaiting placement into a unit." />
     <Entry Key="4001264269" Color="1" Value="Sick or injured staff are placed here to undergo treatment." />
     <Entry Key="571799717" Color="1" Value="Confines soldiers requiring disciplinary action as well as reluctant recruits." />
@@ -172,8 +172,6 @@
     <Entry Key="4005275367" Color="1" Value="Vehicle" />
     <Entry Key="480303076" Color="1" Value="Walker Gear" />
     <Entry Key="487868445" Color="1" Value="Nuclear Weapon" />
-    <Entry Key="821709161" Color="1" Value="Longitude" />
-    <Entry Key="3570016631" Color="1" Value="Latitude" />
     <Entry Key="2119405092" Color="1" Value="Combat Unit Platform" />
     <Entry Key="3255193239" Color="1" Value="R&amp;D Platform" />
     <Entry Key="2617271369" Color="1" Value="Intel Platform" />
@@ -832,13 +830,13 @@
     <Entry Key="1881546480" Color="1" Value="Lessens instances of trouble within unit" />
     <Entry Key="918704695" Color="1" Value="Battle Gear" />
     <Entry Key="2259011824" Color="1" Value="For quarantining parasite-infected staff who have become symptomatic. Also, quarantining staff who are infected but not yet symptomatic will help to prevent the spread of infection." />
-    <Entry Key="2227014422" Color="1" Value="&lt;I=C=cmn-col-special|Increases maximum staff capacity of all units.&gt;" />
-    <Entry Key="3896620046" Color="1" Value="Platform with facilities for the Combat Unit, which &lt;I=C=cmn-col-special|dispatches mercs for regular GMP income.&gt; Amount of GMP earned increases as you add more staff and unit level increases. Staff assigned to the Combat Unit can also deploy in place of Snake." />
-    <Entry Key="1014975012" Color="1" Value="Platform with facilities for the R&amp;D Team, which &lt;I=C=cmn-col-special|develops weapons, items, and other equipment&gt;. Higher-grade equipment can be developed as you add more staff and the unit level increases." />
+    <Entry Key="2227014422" Color="1" Value="Increases maximum staff capacity of all units." />
+    <Entry Key="3896620046" Color="1" Value="Platform with facilities for the Combat Unit, which dispatches mercs for regular GMP income. Amount of GMP earned increases as you add more staff and unit level increases. Staff assigned to the Combat Unit can also deploy in place of Snake." />
+    <Entry Key="1014975012" Color="1" Value="Platform with facilities for the R&amp;D Team, which develops weapons, items, and other equipment. Higher-grade equipment can be developed as you add more staff and the unit level increases." />
     <Entry Key="1446316571" Color="1" Value="Platform with facilities for the Base Development Unit, which procures materials on a regular basis. Amount of materials obtained increases, and materials processing time decreases, as you add more staff and the unit level increases." />
     <Entry Key="3232714119" Color="1" Value="Platform with facilities for the Support Unit, which supports your actions in the area of operations via equipment supply drops and artillery strikes. Types of strikes available increase, and execution time decreases, as you add more staff and the unit level increases." />
     <Entry Key="560528993" Color="1" Value="Platform with facilities for the Intel Team, which scouts the area of operations and provides reports on enemy activity. Accuracy and frequency of reports increase as you add more staff and the unit level increases." />
-    <Entry Key="3188824384" Color="1" Value="Platform with facilities for the Medical Team, which &lt;I=C=cmn-col-special|treats staff injuries and illnesses&gt;. Staff recovery time decreases as you add more staff and the unit level increases. Increasing the unit level also lessens the drop in Fulton extraction success rate of injured subjects." />
+    <Entry Key="3188824384" Color="1" Value="Platform with facilities for the Medical Team, which treats staff injuries and illnesses. Staff recovery time decreases as you add more staff and the unit level increases. Increasing the unit level also lessens the drop in Fulton extraction success rate of injured subjects." />
     <Entry Key="1499469940" Color="1" Value="Plants Surveying" />
     <Entry Key="1812554505" Color="1" Value="Searches for medicinal plants in the AO (area of operations), and marks their locations on the map.&#xA;Search radius widens as rank increases." />
     <Entry Key="3148497739" Color="1" Value="WG.PP" />

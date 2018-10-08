@@ -45,8 +45,8 @@
     <Entry Key="4072456444" Color="1" Value="&lt;I=G=PAUSE&gt;: Pause" />
     <Entry Key="2371945978" Color="1" Value="&lt;I=G=ACTION&gt;: Enter vehicle" />
     <Entry Key="1273799808" Color="1" Value="&lt;I=G=RELOAD&gt; Hold: Place in vehicle" />
-    <Entry Key="3912557633" Color="1" Value="&lt;I=G=ATTACK&gt;: Accelerate" />
-    <Entry Key="1079142954" Color="1" Value="&lt;I=G=HOLD&gt;: Brake/reverse" />
+    <Entry Key="3912557633" Color="1" Value="&lt;I=G=PAD_R2&gt;: Accelerate" />
+    <Entry Key="1079142954" Color="1" Value="&lt;I=G=PAD_L2&gt;: Brake/reverse" />
     <Entry Key="3117776229" Color="1" Value="&lt;I=G=ACTION&gt;: Board helicopter" />
     <Entry Key="74265584" Color="1" Value="&lt;I=G=RELOAD&gt; Hold: Place in helicopter" />
     <Entry Key="3192253462" Color="1" Value="&lt;I=G=ATTACK&gt;: Attack using machine gun" />

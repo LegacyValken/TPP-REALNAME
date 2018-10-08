@@ -49,7 +49,7 @@
     <Entry Key="2491297011" Color="1" Value="Smoke grenade.&#xA;Releases a smokescreen to obscure enemy visibility." />
     <Entry Key="2266755946" Color="1" Value="A radio-detonated bomb.&#xA;Perfect for special tactics such as ambushes.&#xA;After placing, detonate by pressing the Ready&#xA;Button (&lt;I=G=HOLD&gt;) and the Action Button (&lt;I=G=ACTION&gt;)." />
     <Entry Key="1741087242" Color="1" Value="Decoy.&#xA;After throwing, press the Ready Button (&lt;I=G=HOLD&gt;) and the Action Button (&lt;I=G=ACTION&gt;) to deploy a diversionary balloon that looks like a soldier." />
-    <Entry Key="523151458" Color="1" Value="Active decoy.&#xA;Standard decoy upgraded with a speaker function. Deploys a diversionary balloon that also plays continuous voice clips." />
+    <Entry Key="523151458" Color="1" Value="Active decoy.&#xA;Standard decoy upgraded with a speaker function. Deploys a diversionary balloon that also plays continuous voice clips.&#xA;*No sound if deployed to FOB." />
     <Entry Key="3011253879" Color="1" Value="Directional mine.&#xA;Anti-personnel/anti-vehicle mine.&#xA;Detonates when a moving object enters its trigger area." />
     <Entry Key="1130028332" Color="1" Value="Sleeping gas mine.&#xA;Releases soporific gas when a target enters its trigger area, putting those who inhale the gas to sleep." />
     <Entry Key="3589375858" Color="1" Value="Anti-tank mine.&#xA;Large mine powerful enough to destroy armored vehicles. Not triggered by personnel or animals." />
@@ -300,7 +300,7 @@
     <Entry Key="3664726580" Color="1" Value="LMG Stock" />
     <Entry Key="1780308933" Color="1" Value="Optional Stock (Improved Stability While Moving)" />
     <Entry Key="4168523306" Color="1" Value="Sharpshooter's Stock 1 (Improved Stability While Moving)" />
-    <Entry Key="262129881" Color="1" Value="Sharpshooter's Stock 1 (Improved Stability While Moving)" />
+    <Entry Key="262129881" Color="1" Value="Sharpshooter's Stock 1" />
     <Entry Key="3284632272" Color="1" Value="Sharpshooter's Stock 2 (Improved Stability While Moving)" />
     <Entry Key="503359921" Color="1" Value="Sharpshooter's Stock 2 (Improved Stability While Moving)" />
     <Entry Key="4234285210" Color="1" Value="Enhanced Stock Performance (Improved Stability While Moving)" />
@@ -386,9 +386,9 @@
     <Entry Key="1267700055" Color="1" Value="Stopping Power Up [2]" />
     <Entry Key="947469546" Color="1" Value="Effect Duration Up [1]" />
     <Entry Key="3012626278" Color="1" Value="Effect Duration Up [2]" />
-    <Entry Key="3276076236" Color="1" Value="Capture Function [1] (Capture Targets: C)" />
-    <Entry Key="3457978845" Color="1" Value="Capture Function [2] (Capture Targets: C/R)" />
-    <Entry Key="271770522" Color="1" Value="Capture Function [3] (Capture Targets: C/R/SR)" />
+    <Entry Key="3276076236" Color="1" Value="Capture Function [1] (Capture Targets: C/UC)" />
+    <Entry Key="3457978845" Color="1" Value="Capture Function [2] (Capture Targets: C/UC/R)" />
+    <Entry Key="271770522" Color="1" Value="Capture Function [3] (Capture Targets: C/UC/R/SR/UR)" />
     <Entry Key="2768143089" Color="1" Value="Light Amplification Up [1]" />
     <Entry Key="730785705" Color="1" Value="Light Amplification Up [2]" />
     <Entry Key="369176951" Color="1" Value="Exposure Correction Up [1]" />
@@ -482,7 +482,7 @@
     <Entry Key="1498409969" Color="1" Value="Sodomka zbrojovka Type 336 Submachine Gun" />
     <Entry Key="643013719" Color="1" Value="Ze'ev Submachine Gun" />
     <Entry Key="69882671" Color="1" Value="Maschinen Taktische Pistole 37" />
-    <Entry Key="3201097220" Color="1" Value="Gryzov Assault Rifle-77" />
+    <Entry Key="3201097220" Color="1" Value="Gryzov Assault Rifle-76" />
     <Entry Key="3439305968" Color="1" Value="Arms Material Multipurpose Rifle System Model 4" />
     <Entry Key="544264121" Color="1" Value="UN-Automatic Rifle for Combat" />
     <Entry Key="1107117615" Color="1" Value="G44 Bullpup Assault Rifle" />
@@ -498,7 +498,7 @@
     <Entry Key="3463882501" Color="1" Value="Broughton Model 2000 Sniper Rifle, Detachable-magazine" />
     <Entry Key="3833955826" Color="1" Value="Bambetov Sniper Rifle" />
     <Entry Key="1597906689" Color="1" Value="Arms Material Multipurpose Rifle System Type 71 Precision Model" />
-    <Entry Key="4143129576" Color="1" Value="Brennan Long Range Sniper Type 54" />
+    <Entry Key="4143129576" Color="1" Value="Brennan Long Range Sniper Type 46" />
     <Entry Key="1765814734" Color="1" Value="Serval Anti-materiel Rifle-7" />
     <Entry Key="2333959413" Color="1" Value="Aberdeen Lighter Machine Gun Type 48" />
     <Entry Key="2793933981" Color="1" Value="UN Modular Automatic Weapon" />
@@ -620,5 +620,55 @@
     <Entry Key="3611124323" Color="1" Value="9mm bullpup assault rifle.&#xA;Specialized assault weapon made shorter by positioning the action behind the trigger, which also enables quicker aiming and firing." />
     <Entry Key="680044594" Color="1" Value="Personal Ballistic Shield" />
     <Entry Key="4102594495" Color="1" Value="Windurger Series 362 Revolver" />
+    <Entry Key="1286572185" Color="1" Value="Mission Complete Rank Restricted to A or Below" />
+    <Entry Key="3211817593" Color="1" Value="Stopping Power Up [3]" />
+    <Entry Key="3586214530" Color="1" Value="Defense Up [3]" />
+    <Entry Key="280552048" Color="1" Value="Defense Up [4]" />
+    <Entry Key="1566348129" Color="1" Value="Defense Up [5]" />
+    <Entry Key="2614761063" Color="1" Value="AM A114 RP" />
+    <Entry Key="4245128435" Color="1" Value="MIRAZH-71" />
+    <Entry Key="1113692421" Color="1" Value="MOLOTOK-68" />
+    <Entry Key="4030042761" Color="1" Value="Arms Material Alpha-114 Riot Pistol" />
+    <Entry Key="3697717177" Color="1" Value="Mirazh-71　Grenade launcher" />
+    <Entry Key="1425569558" Color="1" Value="Molotok-68 Anti Materiel Rifle" />
+    <Entry Key="2575854131" Color="1" Value="Single-shot tranquilizer gas handgun.&#xA;A compact non-lethal weapon used for delivering an immobilization agent from a distance.&#xA;Each round disperses gas upon impact, for immediate effect across a small area.&#xA;Has a slow rate of fire since each round must be loaded manually." />
+    <Entry Key="1451614954" Color="1" Value="40mm single-shot grenade launcher.&#xA;Uses cased ammunition for greater accuracy, and provides a wide casualty radius due to its multiple-warhead dispersal design. " />
+    <Entry Key="2365415111" Color="1" Value="12.7mm anti-materiel rifle.&#xA;A large-caliber sniper rifle with an extremely long effective range and devastating power and penetration.&#xA;Has a slow rate of fire due to its bolt-action mechanism." />
+    <Entry Key="2944415505" Color="1" Value="E-RB Wormhole Generator.&#xA;Remotely activated, it allows the user to warp to the location where it was placed.&#xA;Once placed, hold the Ready Button (&lt;I=G=HOLD&gt;) and press the Action Button (&lt;I=G=ACTION&gt;) to activate.&#xA;* Can be used only during FOB Missions." />
+    <Entry Key="1851348599" Color="1" Value="No. Placeable Up" />
+    <Entry Key="2797999923" Color="1" Value="CAM MARKING DVC." />
+    <Entry Key="59242391" Color="1" Value="SURVEILLANCE CAMERA MARKING DEVICE&#xA;A handgun-type invisible light pointer used on your FOB to specify positions to place your surveillance cameras/gun cameras.&#xA;Aim at a vertical wall surface and &quot;fire&quot; to automatically place a camera. That will be the designated placement for the camera from then on.&#xA;However, cameras cannot be set on surfaces blocked by obstacles." />
+    <Entry Key="3228607051" Color="1" Value="D.MINE MARKER" />
+    <Entry Key="3430183111" Color="1" Value="DIRECTIONAL MINE MARKER&#xA;A landmine-type indicator used on your FOB to specify positions for directional mines/sleeping gas mines. Hold the Ready Button (&lt;I=G=HOLD&gt;) and press the Attack Button (&lt;I=G=ATTACK&gt;) to place the dummy mine, which will be replaced with a real mine during actual FOB missions. &#xA;*To make this item available for development, you must first develop either the [M21 D-MINE Grade: 5] or [LLG-MINE Grade: 5]." />
+    <Entry Key="513101165" Color="1" Value="E-RB WH GEN." />
+    <Entry Key="238130088" Color="1" Value="Cameras Placeable: 1" />
+    <Entry Key="3177460741" Color="1" Value="Cameras Placeable: 2" />
+    <Entry Key="2762448943" Color="1" Value="Cameras Placeable: 3" />
+    <Entry Key="366278293" Color="1" Value="Cameras Placeable: 4" />
+    <Entry Key="4102423533" Color="1" Value="Mines Placeable: 4" />
+    <Entry Key="1491322207" Color="1" Value="Mines Placeable: 8" />
+    <Entry Key="3286821289" Color="1" Value="Mines Placeable: 12" />
+    <Entry Key="1896352825" Color="1" Value="Mines Placeable: 16" />
+    <Entry Key="2577997841" Color="1" Value="When discovering an FOB intruder, Security Team staff will use Stealth Camo for a fixed time." />
+    <Entry Key="555683492" Color="1" Value="Battery Vaporization Device Added" />
+    <Entry Key="3221180738" Color="1" Value="Battery Vaporization Device Effect Range Up" />
+    <Entry Key="508260543" Color="1" Value="FB MR R-L FLTN" />
+    <Entry Key="4000458778" Color="1" Value="Fulton Warhead Conversion" />
+    <Entry Key="2587473077" Color="1" Value="TORNADO-6" />
+    <Entry Key="3851494429" Color="1" Value="TORNADO-6&#xA;Ocelot's revolver of choice.&#xA;Bullets can be ricocheted off walls and other objects to strike nearby enemy soldiers." />
+    <Entry Key="2792267732" Color="1" Value="FOM DECOY" />
+    <Entry Key="2121186634" Color="1" Value="Decoy enemy field of movement generator.&#xA;Confuses defender's Intel Team's Scouting function, creating a dummy enemy field of movement where thrown." />
+    <Entry Key="68715220" Color="1" Value="Ammunition Up" />
+    <Entry Key="1887727130" Color="1" Value="Effect Time Up" />
+    <Entry Key="2490356443" Color="1" Value="Effect Range Up" />
+    <Entry Key="68928550" Color="1" Value="ANTI-TRANQ" />
+    <Entry Key="2064392252" Color="1" Value="Anti-tranquilization agent.&#xA;Stops tranquilizers up to a certain grade from circulating through the body over time.&#xA;Only effective on security guards." />
+    <Entry Key="1430504590" Color="1" Value="Tranquilizer Neutralization Grade Up " />
+    <Entry Key="588048912" Color="1" Value="UN-AAM-NL" />
+    <Entry Key="57140656" Color="1" Value="TORNADO-6 Revolver" />
+    <Entry Key="1231972719" Color="1" Value="" />
+    <Entry Key="910147341" Color="1" Value="" />
+    <Entry Key="73923997" Color="1" Value="" />
+    <Entry Key="163133020" Color="1" Value="If the user is about to die, pass out, or similar, it will activate automatically." />
   </Entries>
 </LangFile>

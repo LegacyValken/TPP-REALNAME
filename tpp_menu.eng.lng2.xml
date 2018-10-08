@@ -131,7 +131,6 @@
     <Entry Key="620869657" Color="1" Value="Language Select" />
     <Entry Key="3652902568" Color="1" Value="Marking" />
     <Entry Key="4064531717" Color="1" Value="Master Volume" />
-    <Entry Key="221869527" Color="1" Value="Custom Soundtrack Volume" />
     <Entry Key="134390076" Color="1" Value="Reflex Mode" />
     <Entry Key="4171810793" Color="1" Value="Weapon Aiming Shoulder View" />
     <Entry Key="245294382" Color="1" Value="Trial Record Display" />
@@ -220,7 +219,6 @@
     <Entry Key="3993692295" Color="1" Value="Set whether Reflex Mode activates when spotted&#xA;by an enemy. Clear a mission without entering&#xA;Reflex Mode once to earn a score bonus." />
     <Entry Key="1429758794" Color="1" Value="Chicken Hat" />
     <Entry Key="3137333442" Color="1" Value="Adjust brightness so that both images&#xA;on the left and right are visible." />
-    <Entry Key="3672499866" Color="1" Value="Adjust the playback volume for custom tracks." />
     <Entry Key="406107297" Color="1" Value="Japanese" />
     <Entry Key="3215739311" Color="1" Value="English" />
     <Entry Key="129253236" Color="1" Value="French" />
@@ -373,7 +371,7 @@
     <Entry Key="2254383035" Color="1" Value="Play cassette tapes" />
     <Entry Key="3991827101" Color="1" Value="PRESS MENU BUTTON" />
     <Entry Key="819716121" Color="1" Value="START GAME" />
-    <Entry Key="2686794242" Color="1" Value="©2015 Konami Digital Entertainment" />
+    <Entry Key="2686794242" Color="1" Value="THE ULTIMATE PHANTOM PAIN MOD r69&#xA;©2016 Konami Digital Entertainment" />
     <Entry Key="4118426043" Color="1" Value="BACKSTORY" />
     <Entry Key="1923067885" Color="1" Value="CONTINUE" />
     <Entry Key="2924876294" Color="1" Value="OPTIONS" />
@@ -808,7 +806,7 @@
     <Entry Key="2274906670" Color="1" Value="All Rewards" />
     <Entry Key="1853481817" Color="1" Value="VS %s" />
     <Entry Key="2293281263" Color="1" Value="Reward" />
-    <Entry Key="3426218493" Color="1" Value="Accept rewards. (Rewards that exceed the maximum storage capacity are accepted automatically.)" />
+    <Entry Key="3426218493" Color="1" Value="Accept rewards. (Rewards that exceed the maximum storage capacity are accepted automatically.) *However, excess rewards that you cannot accept will be discarded starting with the oldest first." />
     <Entry Key="780533112" Color="1" Value="LOADOUT" />
     <Entry Key="506936956" Color="1" Value="SETTING" />
     <Entry Key="743066205" Color="1" Value="Plain Color" />
@@ -822,7 +820,7 @@
     <Entry Key="1496462747" Color="1" Value="Cancel Insurance" />
     <Entry Key="3981916057" Color="1" Value="Sign up for insurance (paid service) and receive compensation for damage taken by your FOBs." />
     <Entry Key="2762330249" Color="1" Value="MB Coins Expenditure" />
-    <Entry Key="3907534230" Color="1" Value="MB Coins Spent" />
+    <Entry Key="3907534230" Color="1" Value="MB Coins Required" />
     <Entry Key="412235822" Color="1" Value="Current MB Coins" />
     <Entry Key="3400157167" Color="1" Value="MB Coins after transaction" />
     <Entry Key="3079706677" Color="1" Value="Complete transaction?" />
@@ -1050,12 +1048,12 @@
     <Entry Key="1722926513" Color="1" Value="Opponent Player" />
     <Entry Key="3419583531" Color="1" Value="Select tools." />
     <Entry Key="2598878672" Color="1" Value="TOOLS" />
-    <Entry Key="3937365790" Color="1" Value="Switching While Readying a Weapon" />
+    <Entry Key="3937365790" Color="1" Value="Weapon Quick-Switch Type" />
     <Entry Key="4243766443" Color="1" Value="Set how weapon switching is performed when the Quick Dive Button &lt;I=G=EVADE&gt; is pressed while readying a weapon.&#xA;2-Slot: Switch alternately between primary and secondary weapons.&#xA;3-Slot: Switch between primary, secondary, and support weapons in that order." />
     <Entry Key="2917888734" Color="1" Value="2-Slot" />
     <Entry Key="3579049236" Color="1" Value="3-Slot" />
-    <Entry Key="2155685778" Color="1" Value="Call Commands" />
-    <Entry Key="1818968876" Color="1" Value="Set the method for selecting commands on the Call Menu.&#xA;Call Button: Release the Call Button (&lt;I=G=CALL&gt;) to use the selected command.&#xA;Right Stick: Tilt &lt;I=G=CAMERA&gt; to select and use a command." />
+    <Entry Key="2155685778" Color="1" Value="Call Command Confirmation Mode" />
+    <Entry Key="1818968876" Color="1" Value="Set the method for selecting commands on the Call Menu.&#xA;Call Button: Release the Call Button (&lt;I=G=CALL&gt;) to use the selected command.&#xA;Right Stick: Press &lt;I=G=CAMERA&gt; to select and use a command." />
     <Entry Key="375073148" Color="1" Value="&lt;I=G=PAD_R3&gt;" />
     <Entry Key="2943925566" Color="1" Value="Call Button" />
     <Entry Key="2374468856" Color="1" Value="Map Mode (North Top)" />
@@ -1197,7 +1195,7 @@
     <Entry Key="49453439" Color="1" Value="FREE" />
     <Entry Key="3276157232" Color="1" Value="SIDE OPS" />
     <Entry Key="1702400502" Color="1" Value="FOB MISSIONS" />
-    <Entry Key="143294808" Color="1" Value="Assigned Staff/Placed Containers" />
+    <Entry Key="143294808" Color="1" Value="Assigned Staff/%sPlaced Containers" />
     <Entry Key="3124958753" Color="1" Value="&lt;I=G=DECISION&gt;OK" />
     <Entry Key="1391219601" Color="1" Value="VOLUNTEER" />
     <Entry Key="4012529662" Color="1" Value="EXTRACTED" />
@@ -1326,5 +1324,19 @@
     <Entry Key="3396661481" Color="1" Value="Higher grade versions of your currently equipped weapons/items exist.  &#xA;Would you like to equip them now?" />
     <Entry Key="2975487855" Color="1" Value="LEGAL INFORMATION" />
     <Entry Key="69978826" Color="1" Value="View legal information." />
+    <Entry Key="2936467419" Color="1" Value="MGO" />
+    <Entry Key="39915642" Color="1" Value="MGSV: TPP" />
+    <Entry Key="2449966352" Color="1" Value="Set the game to start up next." />
+    <Entry Key="2296489088" Color="1" Value="Game Type to Start" />
+    <Entry Key="3706061192" Color="1" Value="Chinese" />
+    <Entry Key="2830826790" Color="1" Value="Korean" />
+    <Entry Key="1368660813" Color="1" Value="Construction Time: %.1f hours (real time)" />
+    <Entry Key="1410632733" Color="1" Value="Deployment Time: %.1f hours (real time)" />
+    <Entry Key="1866708894" Color="1" Value="Development Time: %.1f hours (real time)" />
+    <Entry Key="3643375458" Color="1" Value="Quit METAL GEAR SOLID V: THE PHANTOM PAIN and start METAL GEAR ONLINE." />
+    <Entry Key="1040313613" Color="1" Value="Remote Weapon Controls - Y Axis" />
+    <Entry Key="2184823828" Color="1" Value="Remote Weapon Controls - X Axis" />
+    <Entry Key="3312762982" Color="1" Value="Configure the y axis control method for remote-controlled weapons." />
+    <Entry Key="2338572985" Color="1" Value="Configure the x axis control method for remote-controlled weapons." />
   </Entries>
 </LangFile>

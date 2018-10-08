@@ -138,5 +138,23 @@
     <Entry Key="3610385805" Color="1" Value="[MOTHER BASE] Troublemaker" />
     <Entry Key="3032294595" Color="1" Value="[HINT] Wormholes" />
     <Entry Key="1468214659" Color="1" Value="[HINT] Player Abilities During FOB Missions" />
+    <Entry Key="1713940190" Color="1" Value="[FOB] Scouting Enemies from the Helicopter Before Infiltration" />
+    <Entry Key="4189749681" Color="1" Value="[FOB] FOB Blockades" />
+    <Entry Key="2786489458" Color="1" Value="[FOB] Espionage Points" />
+    <Entry Key="3529809302" Color="1" Value="[FOB] Staff Rank Bonus" />
+    <Entry Key="1038843577" Color="1" Value="[FOB] Reaching the FOB Core" />
+    <Entry Key="1122602092" Color="1" Value="[FOB] Rewards for Reaching the FOB Core" />
+    <Entry Key="2010818208" Color="1" Value="[HINT] Direct Contracts" />
+    <Entry Key="1457867034" Color="1" Value="[FOB] Retaliatory Wormholes" />
+    <Entry Key="65646166" Color="1" Value="[FOB] Nuclear Weapons" />
+    <Entry Key="1191410585" Color="1" Value="[FOB] Heroism" />
+    <Entry Key="845014922" Color="1" Value="[FOB] Security Guard Equipment" />
+    <Entry Key="62593618" Color="1" Value="[HINT] PF Grade" />
+    <Entry Key="3203227745" Color="1" Value="[HINT] PF Points" />
+    <Entry Key="298075577" Color="1" Value="[FOB] Supporting Players" />
+    <Entry Key="2386130984" Color="1" Value="[FOB] Persuading New Staff and Rescuing Abductees" />
+    <Entry Key="727576239" Color="1" Value="[FOB] FOB Missions (Defense)" />
+    <Entry Key="1630487781" Color="1" Value="[FOB] Expanding an FOB" />
+    <Entry Key="1330670901" Color="1" Value="[FOB] Dispatch Missions (Online)" />
   </Entries>
 </LangFile>

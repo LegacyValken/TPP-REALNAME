@@ -94,35 +94,35 @@
     <Entry Key="3663945342" Color="1" Value="You cannot construct any more FOBs." />
     <Entry Key="2256732227" Color="1" Value="Accept reward?" />
     <Entry Key="2370395343" Color="1" Value="You already have valid insurance.&#xA;New insurance will take effect after your current policy expires.&#xA;Proceed?" />
-    <Entry Key="4055412571" Color="1" Value="Signing up for insurance.&#xA;Are you sure?" />
+    <Entry Key="4055412571" Color="1" Value="Signing up for insurance. Are you sure?&#xA;*Once insurance period expires, you will be unable to sign up for a set period of time (the &quot;Usage Interval&quot;)." />
     <Entry Key="2847033904" Color="1" Value="Discontinue support of this user?" />
     <Entry Key="1214190249" Color="1" Value="Support this user?" />
     <Entry Key="309984237" Color="1" Value="Failed to create save data.&#xA;Exit the game and delete save data." />
     <Entry Key="1231473632" Color="1" Value="Save data is corrupted.  &#xA;Restoring to previous save." />
     <Entry Key="4101371155" Color="1" Value="Failed to load save data.&#xA;The data could be corrupted.&#xA;&#xA;Create new save data?&#xA;Current data will be overwritten.&#xA;&#xA;Select &quot;NO&quot; to attempt to load current data again." />
-    <Entry Key="3526803270" Color="1" Value="You have signed out.&#xA;You will not be able to use online features." />
+    <Entry Key="3526803270" Color="1" Value="You have signed out.&#xA;You will not be able to use online features.&#xA;&#xA;*You will not be able to use GMP or resources stored in your online inventory.&#xA;Connect online again to access your online inventory." />
     <Entry Key="639484624" Color="1" Value="As you have not agreed to the Terms of Use, you will not be able to use online features such as uploading rankings or records. You must agree to the Terms of Use in order to use online features.&#xA;&#xA;Begin game in offline mode?" />
     <Entry Key="2246377083" Color="1" Value="You cannot use this feature because you are in offline mode." />
     <Entry Key="1799460398" Color="1" Value="Logging in to server..." />
     <Entry Key="3404051590" Color="1" Value="Logged in to server." />
-    <Entry Key="3917302036" Color="1" Value="Failed to log in to server.&#xA;You will not be able to use online features." />
+    <Entry Key="3917302036" Color="1" Value="Failed to log in to server.&#xA;You will not be able to use online features.&#xA;&#xA;*You will not be able to use GMP or resources stored in your online inventory.&#xA;Connect online again to access your online inventory." />
     <Entry Key="1168443969" Color="1" Value="Failed to log in to server.&#xA;You will not be able to use online features." />
-    <Entry Key="2265050688" Color="1" Value="The server is undergoing maintenance. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode.&#xA;&#xA;For maintenance information, visit the official game website." />
-    <Entry Key="1218498030" Color="1" Value="Online services have concluded. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode. &#xA;&#xA;For further information, visit the official game website." />
-    <Entry Key="4004883383" Color="1" Value="Failed to establish connection with server due to high traffic. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode." />
-    <Entry Key="3063980308" Color="1" Value="Failed to establish connection with server. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode." />
+    <Entry Key="2265050688" Color="1" Value="The server is undergoing maintenance. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode.&#xA;&#xA;For maintenance information, visit the official game website.&#xA;&#xA;*You will not be able to use GMP or resources stored in your online inventory.&#xA;Connect online again to access your online inventory." />
+    <Entry Key="1218498030" Color="1" Value="Online services have concluded. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode. &#xA;&#xA;For further information, visit the official game website.&#xA;&#xA;*You will not be able to use GMP or resources stored in your online inventory.&#xA;Connect online again to access your online inventory." />
+    <Entry Key="4004883383" Color="1" Value="Failed to establish connection with server due to high traffic. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode.&#xA;&#xA;*You will not be able to use GMP or resources stored in your online inventory.&#xA;Connect online again to access your online inventory." />
+    <Entry Key="3063980308" Color="1" Value="Failed to establish connection with server. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode.&#xA;&#xA;*You will not be able to use GMP or resources stored in your online inventory.&#xA;Connect online again to access your online inventory." />
     <Entry Key="1001164855" Color="1" Value="Failed to establish connection with server. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode." />
     <Entry Key="2385503179" Color="1" Value="This account is banned from logging in to the game server.&#xA;Rankings and other online functions will be disabled.&#xA;Starting Game..." />
     <Entry Key="3784637659" Color="1" Value="Connecting to server..." />
-    <Entry Key="359826113" Color="1" Value="A network error has occurred.&#xA;You will not be able to use online features." />
+    <Entry Key="359826113" Color="1" Value="A network error has occurred.&#xA;You will not be able to use online features.&#xA;&#xA;*You will not be able to use GMP or resources stored in your online inventory.&#xA;Connect online again to access your online inventory." />
     <Entry Key="954097048" Color="1" Value="You have been disconnected from session." />
     <Entry Key="288779953" Color="1" Value="Another player is already infiltrating.&#xA;FOB infiltration aborted." />
     <Entry Key="3419374287" Color="1" Value="Infiltrator no longer present.&#xA;Aborting FOB defense." />
     <Entry Key="764275713" Color="1" Value="Another player is defending.&#xA;Aborting FOB defense." />
     <Entry Key="458057666" Color="1" Value="Failed to add to Supporting List." />
     <Entry Key="1769870992" Color="1" Value="Failed to discontinue support." />
-    <Entry Key="849542106" Color="1" Value="Invite received from MGO.&#xA;Starting MGO." />
-    <Entry Key="2828625356" Color="1" Value="Accept MGO invite?&#xA;If you accept, all game progress since last checkpoint will be lost." />
+    <Entry Key="849542106" Color="1" Value="Invite received from METAL GEAR ONLINE.&#xA;Starting METAL GEAR ONLINE." />
+    <Entry Key="2828625356" Color="1" Value="Accept METAL GEAR ONLINE invite?&#xA;If you accept, all game progress since last checkpoint will be lost." />
     <Entry Key="827031978" Color="1" Value="Checking downloadable content..." />
     <Entry Key="3823628680" Color="1" Value="METAL GEAR SOLID V: GROUND ZEROES&#xA;save data will be downloaded.&#xA;Downloaded save data can be carried over to&#xA;METAL GEAR SOLID V: THE PHANTOM PAIN.&#xA;Download save data?" />
     <Entry Key="3657335518" Color="1" Value="No save data found.&#xA;Canceling download.&#xA;&#xA;*To carry over save data, you must first start&#xA;METAL GEAR SOLID V: GROUND ZEROES&#xA;and upload your save data." />
@@ -219,7 +219,7 @@
     <Entry Key="2712042552" Color="1" Value="Downloadable content has been added.&#xA;[%s] is now available for development." />
     <Entry Key="3807351972" Color="1" Value="Downloadable content has been added.&#xA;[Mother Base Staff] can now join your unit.&#xA;&#xA;These staff will gradually join your unit as you progress through the game." />
     <Entry Key="1659558309" Color="1" Value="Downloadable content has been added.&#xA;Emblem part [%s] is now available." />
-    <Entry Key="1447987205" Color="1" Value="Downloadable content has been deleted.&#xA;[%s] is no longer available for development." />
+    <Entry Key="1447987205" Color="1" Value="Downloadable content has been deleted.&#xA;[%s]" />
     <Entry Key="2171313348" Color="1" Value="Downloadable content has been deleted.&#xA;[Mother Base Staff] can no longer join your unit." />
     <Entry Key="3600679991" Color="1" Value="Downloadable content has been deleted.&#xA;Emblem part [%s] is no longer available.&#xA;&#xA;If this part was in use, your emblem will revert to its default status." />
     <Entry Key="1896850458" Color="1" Value="Save data transferred.&#xA;[%s] is now available for development." />
@@ -247,8 +247,8 @@
     <Entry Key="793553088" Color="1" Value="Failed to protect FOB from intruder.&#xA;&#xA;You incurred losses to security devices.&#xA;Loss total:&#xA;%d GMP&#xA;Compensation from insurance:&#xA;%d GMP" />
     <Entry Key="480782647" Color="1" Value="Intruder has already vacated FOB." />
     <Entry Key="2793001174" Color="1" Value="Are you sure you want to go to METAL GEAR ONLINE?" />
-    <Entry Key="910604122" Color="1" Value="You have received an invitation to play Metal Gear Online, &#xA;but you cannot accept until you have proceeded further into the game." />
-    <Entry Key="2757015146" Color="1" Value="You have received an invitation to play Metal Gear Online, &#xA;but you cannot accept since you have not agreed to the terms of use." />
+    <Entry Key="910604122" Color="1" Value="You have received an invitation to play METAL GEAR ONLINE &#xA;but you cannot accept until you have proceeded further into the game." />
+    <Entry Key="2757015146" Color="1" Value="You have received an invitation to play METAL GEAR ONLINE &#xA;but you cannot accept since you have not agreed to the terms of use." />
     <Entry Key="726329194" Color="1" Value="Items or ammo/suppressors for use with weapons not yet developed at Mother Base will be excluded from the supply drop.&#xA;Request supply drop?" />
     <Entry Key="2255048063" Color="1" Value="Certain types of ammo/suppressors or items may not be included in the supply drop due to a lack of necessary resources.&#xA;Request supply drop?" />
     <Entry Key="611899955" Color="1" Value="You are already connected to the server." />
@@ -256,5 +256,19 @@
     <Entry Key="1348433004" Color="1" Value="Failed to spend MB Coins.&#xA;You do not have enough MB Coins." />
     <Entry Key="2285412292" Color="1" Value="You must update the game in order to use online features." />
     <Entry Key="2567692021" Color="1" Value="Unable to use this feature since you are in offline mode.&#xA;&#xA;To switch to online mode, select CONNECT ONLINE from the Pause menu in the Aerial Command Center (ACC)." />
+    <Entry Key="2704369121" Color="1" Value="You must be signed in to play METAL GEAR ONLINE." />
+    <Entry Key="916465217" Color="1" Value="Failed to start METAL GEAR ONLINE." />
+    <Entry Key="2340234572" Color="1" Value="Resuming METAL GEAR SOLID V: THE PHANTOM PAIN." />
+    <Entry Key="1205760559" Color="1" Value="Checking METAL GEAR ONLINE game data..." />
+    <Entry Key="3596176363" Color="1" Value="You have received an invitation to play METAL GEAR ONLINE, &#xA;but you cannot accept until you finish your current FOB Mission." />
+    <Entry Key="875522179" Color="1" Value="Abort emergency mission?&#xA;&#xA;If you abort an emergency mission, it will no longer be available.&#xA;*Espionage Points will be decreased." />
+    <Entry Key="660254516" Color="1" Value="Abort FOB mission?&#xA;FOB mission will be considered lost.&#xA;&#xA;*A retaliatory wormhole of the infiltrated FOB will open." />
+    <Entry Key="4016897418" Color="1" Value="Invitations can not be accepted with this version." />
+    <Entry Key="531970408" Color="1" Value="Checking installed game data." />
+    <Entry Key="1941474713" Color="1" Value="Downloadable content &quot;MGSV: TPP UPDATE DATA&quot; not found.&#xA;This feature cannot be used. " />
+    <Entry Key="2605076497" Color="1" Value="This player cannot lend or accept support since they do not yet own an FOB." />
+    <Entry Key="2760750758" Color="1" Value="Added to Supporters list." />
+    <Entry Key="529513721" Color="1" Value="Starting METAL GEAR ONLINE." />
+    <Entry Key="2023807075" Color="1" Value="You have not yet progressed far enough in the main game to access METAL GEAR ONLINE. Starting METAL GEAR SOLID V: THE PHANTOM PAIN instead. " />
   </Entries>
 </LangFile>
